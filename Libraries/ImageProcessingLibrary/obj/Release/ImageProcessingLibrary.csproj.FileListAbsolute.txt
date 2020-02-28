@@ -1,0 +1,58 @@
+C:\Data\Research\PartnerAgent\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+C:\Data\Research\PartnerAgent\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.HistogramPlot.resources
+C:\Data\Research\PartnerAgent\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.csproj.GenerateResource.Cache
+C:\Data\Research\PartnerAgent\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+C:\Data\Research\PartnerAgent\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.GestureRecognition.GestureViewControl.resources
+C:\Data\Research\PartnerAgent\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.csprojResolveAssemblyReference.cache
+D:\20150413\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+D:\20150413\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+D:\20150413\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.GestureRecognition.GestureViewControl.resources
+D:\20150413\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.HistogramPlot.resources
+D:\20150413\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.csproj.GenerateResource.Cache
+D:\20150413\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Release\ImageProcessingLibrary.dll
+D:\20150413\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Release\ImageProcessingLibrary.pdb
+D:\20150413\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Release\DirectShowLib-2005.dll
+D:\20150413\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.dll
+D:\20150413\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.pdb
+D:\20150414\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Release\ImageProcessingLibrary.dll
+D:\20150414\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Release\ImageProcessingLibrary.pdb
+D:\20150414\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Release\DirectShowLib-2005.dll
+D:\20150414\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+D:\20150414\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+D:\20150414\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.GestureRecognition.GestureViewControl.resources
+D:\20150414\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.HistogramPlot.resources
+D:\20150414\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.csproj.GenerateResource.Cache
+D:\20150414\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.dll
+D:\20150414\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.pdb
+D:\London20150510-20150516\20150511\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Release\ImageProcessingLibrary.dll
+D:\London20150510-20150516\20150511\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Release\ImageProcessingLibrary.pdb
+D:\London20150510-20150516\20150511\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Release\DirectShowLib-2005.dll
+D:\London20150510-20150516\20150511\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+D:\London20150510-20150516\20150511\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+D:\London20150510-20150516\20150511\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.GestureRecognition.GestureViewControl.resources
+D:\London20150510-20150516\20150511\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.HistogramPlot.resources
+D:\London20150510-20150516\20150511\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.csproj.GenerateResource.Cache
+D:\London20150510-20150516\20150511\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.dll
+D:\London20150510-20150516\20150511\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.pdb
+D:\London20150510-20150516\20150512\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Release\ImageProcessingLibrary.dll
+D:\London20150510-20150516\20150512\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Release\ImageProcessingLibrary.pdb
+D:\London20150510-20150516\20150512\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Release\DirectShowLib-2005.dll
+D:\London20150510-20150516\20150512\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+D:\London20150510-20150516\20150512\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+D:\London20150510-20150516\20150512\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.GestureRecognition.GestureViewControl.resources
+D:\London20150510-20150516\20150512\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.HistogramPlot.resources
+D:\London20150510-20150516\20150512\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.csproj.GenerateResource.Cache
+D:\London20150510-20150516\20150512\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.dll
+D:\London20150510-20150516\20150512\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\bin\Release\ImageProcessingLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\bin\Release\ImageProcessingLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\bin\Release\CustomUserControlsLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\bin\Release\DirectShowLib-2005.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\bin\Release\CustomUserControlsLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+C:\Data\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+C:\Data\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.MotionDetection.MotionDetectionControl.resources
+C:\Data\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.csproj.GenerateResource.Cache
+C:\Data\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Release\ImageProcessingLibrary.pdb

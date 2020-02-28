@@ -1,0 +1,13 @@
+C:\Data\Research\Autonomous agents\Src\Libraries\MathematicsLibrary\bin\Release\MathematicsLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\MathematicsLibrary\bin\Release\MathematicsLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\MathematicsLibrary\obj\Release\MathematicsLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\MathematicsLibrary\obj\Release\MathematicsLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\MathematicsLibrary\bin\Release\CustomUserControlsLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\MathematicsLibrary\bin\Release\CustomUserControlsLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\MathematicsLibrary\bin\Release\MathematicsLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\MathematicsLibrary\bin\Release\MathematicsLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\MathematicsLibrary\bin\Release\CustomUserControlsLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\MathematicsLibrary\bin\Release\CustomUserControlsLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\MathematicsLibrary\obj\Release\MathematicsLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\MathematicsLibrary\obj\Release\MathematicsLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\MathematicsLibrary\obj\Release\MathematicsLibrary.pdb

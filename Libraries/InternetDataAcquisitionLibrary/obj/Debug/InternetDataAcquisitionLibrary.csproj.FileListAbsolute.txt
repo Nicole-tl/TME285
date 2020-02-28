@@ -1,0 +1,84 @@
+E:\Chalmers work\Autonomous agents\Src\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.dll
+E:\Chalmers work\Autonomous agents\Src\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.pdb
+E:\Chalmers work\Autonomous agents\Src\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.dll
+E:\Chalmers work\Autonomous agents\Src\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.pdb
+E:\Chalmers work\Autonomous agents\Src\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Research\Autonomous agents\Src\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\InternetDataAcquisitionLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\InternetDataAcquisitionLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\InternetDataAcquisitionLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\InternetDataAcquisitionLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\InternetDataAcquisitionLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\InternetDataAcquisitionLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\InternetDataAcquisitionLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\InternetDataAcquisitionLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\InternetDataAcquisitionLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\InternetDataAcquisitionLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\InternetDataAcquisitionLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\InternetDataAcquisitionLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\InternetDataAcquisitionLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\InternetDataAcquisitionLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\InternetDataAcquisitionLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\InternetDataAcquisitionLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\InternetDataAcquisitionLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\InternetDataAcquisitionLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\InternetDataAcquisitionLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\InternetDataAcquisitionLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.csproj.CopyComplete
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.csprojAssemblyReference.cache
+C:\Users\estel\Documents\IPASrc_1\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\InternetDataAcquisitionLibrary\bin\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\InternetDataAcquisitionLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\InternetDataAcquisitionLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.csprojAssemblyReference.cache
+C:\Users\estel\Documents\IPASrc_1\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.csproj.CopyComplete
+C:\Users\estel\Documents\IPASrc_1\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\InternetDataAcquisitionLibrary\obj\Debug\InternetDataAcquisitionLibrary.pdb

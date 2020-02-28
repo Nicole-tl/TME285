@@ -1,0 +1,67 @@
+C:\Data\Research\Autonomous agents\Src\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.csprojResolveAssemblyReference.cache
+E:\Chalmers work\Autonomous agents\Src\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.dll
+E:\Chalmers work\Autonomous agents\Src\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.pdb
+E:\Chalmers work\Autonomous agents\Src\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.dll
+E:\Chalmers work\Autonomous agents\Src\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.pdb
+E:\Chalmers work\FinancialPatterns\Src\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.dll
+E:\Chalmers work\FinancialPatterns\Src\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.pdb
+E:\Chalmers work\FinancialPatterns\Src\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.dll
+E:\Chalmers work\FinancialPatterns\Src\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.pdb
+C:\Data\Research\Finance\FinancialPatterns\Src\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.dll
+C:\Data\Research\Finance\FinancialPatterns\Src\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Research\Finance\FinancialPatterns\Src\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Research\Finance\FinancialPatterns\Src\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.dll
+C:\Data\Research\Finance\FinancialPatterns\Src\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\CommunicationLibrary\bin\Debug\CommunicationLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\CommunicationLibrary\obj\Debug\CommunicationLibrary.csprojAssemblyReference.cache

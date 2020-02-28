@@ -1,0 +1,8 @@
+C:\Data\Research\Autonomous agents\Src\Libraries\AuxiliaryLibrary\bin\Release\AuxiliaryLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\AuxiliaryLibrary\bin\Release\AuxiliaryLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\AuxiliaryLibrary\obj\Release\AuxiliaryLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\AuxiliaryLibrary\obj\Release\AuxiliaryLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\AuxiliaryLibrary\bin\Release\AuxiliaryLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\AuxiliaryLibrary\bin\Release\AuxiliaryLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\AuxiliaryLibrary\obj\Release\AuxiliaryLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\AuxiliaryLibrary\obj\Release\AuxiliaryLibrary.pdb

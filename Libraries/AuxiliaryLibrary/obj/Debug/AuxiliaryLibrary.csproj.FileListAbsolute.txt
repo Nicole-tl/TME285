@@ -1,0 +1,60 @@
+C:\Data\Research\Autonomous agents\Src\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.pdb
+E:\Chalmers work\Autonomous agents\Src\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.dll
+E:\Chalmers work\Autonomous agents\Src\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.pdb
+E:\Chalmers work\Autonomous agents\Src\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.dll
+E:\Chalmers work\Autonomous agents\Src\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.csprojAssemblyReference.cache
+C:\Users\estel\Documents\IPASrc_1\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\AuxiliaryLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\AuxiliaryLibrary\obj\Debug\AuxiliaryLibrary.csprojAssemblyReference.cache

@@ -1,0 +1,92 @@
+C:\Data\Research\Autonomous agents\Src\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.pdb
+E:\Chalmers work\Autonomous agents\Src\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.dll
+E:\Chalmers work\Autonomous agents\Src\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.pdb
+E:\Chalmers work\Autonomous agents\Src\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.dll
+E:\Chalmers work\Autonomous agents\Src\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.csprojResolveAssemblyReference.cache
+E:\Chalmers work\Autonomous agents\Src\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.dll
+E:\Chalmers work\Autonomous agents\Src\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+E:\Chalmers work\Autonomous agents\Src\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.csproj.CopyComplete
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\MathematicsLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\MathematicsLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.csproj.CopyComplete
+C:\Users\estel\Documents\IPASrc_1\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\MathematicsLibrary\obj\Debug\MathematicsLibrary.csprojAssemblyReference.cache

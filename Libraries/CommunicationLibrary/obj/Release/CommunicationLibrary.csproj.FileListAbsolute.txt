@@ -1,0 +1,4 @@
+C:\Data\Research\Autonomous agents\Src\Libraries\CommunicationLibrary\bin\Release\CommunicationLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\CommunicationLibrary\bin\Release\CommunicationLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\CommunicationLibrary\obj\Release\CommunicationLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\CommunicationLibrary\obj\Release\CommunicationLibrary.pdb

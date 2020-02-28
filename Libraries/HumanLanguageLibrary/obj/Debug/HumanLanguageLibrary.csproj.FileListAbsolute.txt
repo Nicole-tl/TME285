@@ -1,0 +1,44 @@
+C:\Data\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\HumanLanguageLibrary\bin\Debug\HumanLanguageLibrary.dll
+C:\Data\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\HumanLanguageLibrary\bin\Debug\HumanLanguageLibrary.pdb
+C:\Data\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.dll
+C:\Data\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.pdb
+C:\Data\Chalmers work\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\HumanLanguageLibrary\bin\Debug\HumanLanguageLibrary.dll
+C:\Data\Chalmers work\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\HumanLanguageLibrary\bin\Debug\HumanLanguageLibrary.pdb
+C:\Data\Chalmers work\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.dll
+C:\Data\Chalmers work\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.pdb
+C:\Data\Chalmers work\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\HumanLanguageLibrary\bin\Debug\HumanLanguageLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\HumanLanguageLibrary\bin\Debug\HumanLanguageLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\HumanLanguageLibrary\bin\Debug\HumanLanguageLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\HumanLanguageLibrary\bin\Debug\HumanLanguageLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\HumanLanguageLibrary\bin\Debug\HumanLanguageLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\HumanLanguageLibrary\bin\Debug\HumanLanguageLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\HumanLanguageLibrary\bin\Debug\HumanLanguageLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\HumanLanguageLibrary\bin\Debug\HumanLanguageLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\HumanLanguageLibrary\bin\Debug\HumanLanguageLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\HumanLanguageLibrary\bin\Debug\HumanLanguageLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\HumanLanguageLibrary\bin\Debug\HumanLanguageLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\HumanLanguageLibrary\bin\Debug\HumanLanguageLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.csprojAssemblyReference.cache
+C:\Users\estel\Documents\IPASrc_1\Libraries\HumanLanguageLibrary\bin\Debug\HumanLanguageLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\HumanLanguageLibrary\bin\Debug\HumanLanguageLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\HumanLanguageLibrary\obj\Debug\HumanLanguageLibrary.csprojAssemblyReference.cache

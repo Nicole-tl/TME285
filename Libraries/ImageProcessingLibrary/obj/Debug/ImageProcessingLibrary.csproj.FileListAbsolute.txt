@@ -1,0 +1,288 @@
+E:\Robotik\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+E:\Robotik\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+E:\Robotik\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+E:\Robotik\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+E:\Robotik\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.HistogramPlot.resources
+C:\Users\Mattias Wahde\Documents\Files\Research\Robotics\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+C:\Users\Mattias Wahde\Documents\Files\Research\Robotics\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+C:\Users\Mattias Wahde\Documents\Files\Research\Robotics\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mattias Wahde\Documents\Files\Research\Robotics\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.HistogramPlot.resources
+C:\Users\Mattias Wahde\Documents\Files\Research\Robotics\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Mattias Wahde\Documents\Files\Research\Robotics\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Mattias Wahde\Documents\Files\Research\Robotics\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+C:\Users\Mattias Wahde\Documents\Files\Research\Robotics\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+C:\Users\Mattias Wahde\Documents\Files\Research\Robotics\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Users\Mattias Wahde\Documents\Files\Research\Robotics\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Users\Mattias\Desktop\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+C:\Users\Mattias\Desktop\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+C:\Users\Mattias\Desktop\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Users\Mattias\Desktop\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Users\Mattias\Desktop\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mattias\Desktop\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.HistogramPlot.resources
+C:\Users\Mattias\Desktop\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Mattias\Desktop\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Mattias\Desktop\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+C:\Users\Mattias\Desktop\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+C:\Users\Mattias Wahde\Documents\Files\Research\Robotics\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\ObjectSerializer.dll
+C:\Users\Mattias Wahde\Documents\Files\Research\Robotics\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\ObjectSerializer.pdb
+E:\Robotik\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+C:\Users\Mattias Wahde\Documents\Files\Teaching\Examensarbeten\Tellier, Louis\Src\Libraries\ImageProcessingLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mattias Wahde\Documents\Files\Teaching\Examensarbeten\Tellier, Louis\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+C:\Users\Mattias Wahde\Documents\Files\Teaching\Examensarbeten\Tellier, Louis\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.HistogramPlot.resources
+C:\Users\Mattias Wahde\Documents\Files\Teaching\Examensarbeten\Tellier, Louis\Src\Libraries\ImageProcessingLibrary\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Mattias Wahde\Documents\Files\Teaching\Examensarbeten\Tellier, Louis\Src\Libraries\ImageProcessingLibrary\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Mattias Wahde\Documents\Files\Teaching\Examensarbeten\Tellier, Louis\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+C:\Users\Mattias Wahde\Documents\Files\Teaching\Examensarbeten\Tellier, Louis\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+C:\Users\Mattias Wahde\Documents\Files\Teaching\Examensarbeten\Tellier, Louis\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+C:\Users\Mattias Wahde\Documents\Files\Teaching\Examensarbeten\Tellier, Louis\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+C:\Data\Research\PartnerAgent\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+C:\Data\Research\PartnerAgent\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+C:\Data\Research\PartnerAgent\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+C:\Data\Research\PartnerAgent\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.HistogramPlot.resources
+C:\Data\Research\PartnerAgent\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.GenerateResource.Cache
+C:\Data\Research\PartnerAgent\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+C:\Data\Research\PartnerAgent\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+C:\Data\Research\PartnerAgent\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+C:\Data\Research\PartnerAgent\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.GestureRecognition.GestureViewControl.resources
+E:\Robotik\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+E:\Robotik\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.GestureRecognition.GestureViewControl.resources
+E:\Robotik\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.GenerateResource.Cache
+C:\Data\Research\PartnerAgent\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csprojResolveAssemblyReference.cache
+E:\Robotik\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Research\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+C:\Data\Research\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+C:\Data\Research\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Research\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+C:\Data\Research\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+C:\Data\Research\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.GestureRecognition.GestureViewControl.resources
+C:\Data\Research\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.HistogramPlot.resources
+C:\Data\Research\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.GenerateResource.Cache
+C:\Data\Research\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+C:\Data\Research\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+D:\20150413\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+D:\20150413\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+D:\20150413\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csprojResolveAssemblyReference.cache
+D:\20150413\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+D:\20150413\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+D:\20150413\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.GestureRecognition.GestureViewControl.resources
+D:\20150413\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.HistogramPlot.resources
+D:\20150413\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.GenerateResource.Cache
+D:\20150413\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+D:\20150413\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+D:\20150414\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+D:\20150414\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+D:\20150414\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csprojResolveAssemblyReference.cache
+D:\20150414\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+D:\20150414\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+D:\20150414\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.GestureRecognition.GestureViewControl.resources
+D:\20150414\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.HistogramPlot.resources
+D:\20150414\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.GenerateResource.Cache
+D:\20150414\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+D:\20150414\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+D:\London20150510-20150516\20150511\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+D:\London20150510-20150516\20150511\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+D:\London20150510-20150516\20150511\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csprojResolveAssemblyReference.cache
+D:\London20150510-20150516\20150511\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+D:\London20150510-20150516\20150511\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+D:\London20150510-20150516\20150511\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.GestureRecognition.GestureViewControl.resources
+D:\London20150510-20150516\20150511\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.HistogramPlot.resources
+D:\London20150510-20150516\20150511\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.GenerateResource.Cache
+D:\London20150510-20150516\20150511\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+D:\London20150510-20150516\20150511\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+D:\London20150510-20150516\20150512\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+D:\London20150510-20150516\20150512\PartnerAgent\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+D:\London20150510-20150516\20150512\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csprojResolveAssemblyReference.cache
+D:\London20150510-20150516\20150512\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+D:\London20150510-20150516\20150512\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+D:\London20150510-20150516\20150512\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.GestureRecognition.GestureViewControl.resources
+D:\London20150510-20150516\20150512\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.HistogramPlot.resources
+D:\London20150510-20150516\20150512\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.GenerateResource.Cache
+D:\London20150510-20150516\20150512\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+D:\London20150510-20150516\20150512\PartnerAgent\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+C:\Data\Research\Autonomous vehicles\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+C:\Data\Research\Autonomous vehicles\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+C:\Data\Research\Autonomous vehicles\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Research\Autonomous vehicles\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+C:\Data\Research\Autonomous vehicles\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+C:\Data\Research\Autonomous vehicles\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.GestureRecognition.GestureViewControl.resources
+C:\Data\Research\Autonomous vehicles\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.HistogramPlot.resources
+C:\Data\Research\Autonomous vehicles\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.GenerateResource.Cache
+C:\Data\Research\Autonomous vehicles\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+C:\Data\Research\Autonomous vehicles\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+E:\Chalmers work\ImageProcessing\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+E:\Chalmers work\ImageProcessing\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+E:\Chalmers work\ImageProcessing\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csprojResolveAssemblyReference.cache
+E:\Chalmers work\ImageProcessing\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+E:\Chalmers work\ImageProcessing\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+E:\Chalmers work\ImageProcessing\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.GestureRecognition.GestureViewControl.resources
+E:\Chalmers work\ImageProcessing\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.HistogramPlot.resources
+E:\Chalmers work\ImageProcessing\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.GenerateResource.Cache
+E:\Chalmers work\ImageProcessing\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+E:\Chalmers work\ImageProcessing\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+E:\Chalmers work\ImageProcessing\ImageProcessingLibrary\bin\Debug\CustomUserControlsLibrary.dll
+E:\Chalmers work\ImageProcessing\ImageProcessingLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+C:\Data\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+C:\Data\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.GenerateResource.Cache
+C:\Data\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+E:\Chalmers work\Autonomous agents\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+E:\Chalmers work\Autonomous agents\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+E:\Chalmers work\Autonomous agents\Src\Libraries\ImageProcessingLibrary\bin\Debug\CustomUserControlsLibrary.dll
+E:\Chalmers work\Autonomous agents\Src\Libraries\ImageProcessingLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+E:\Chalmers work\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csprojResolveAssemblyReference.cache
+E:\Chalmers work\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+E:\Chalmers work\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+E:\Chalmers work\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.GenerateResource.Cache
+E:\Chalmers work\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+E:\Chalmers work\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+E:\Chalmers work\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.OLDHistogramPlot.resources
+E:\Chalmers work\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.MotionDetection.MotionDetectionControl.resources
+E:\Latest versions\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csprojResolveAssemblyReference.cache
+E:\Latest versions\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+E:\Latest versions\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+E:\Latest versions\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.MotionDetection.MotionDetectionControl.resources
+E:\Latest versions\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.OLDHistogramPlot.resources
+E:\Latest versions\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.GenerateResource.Cache
+E:\Latest versions\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+E:\Latest versions\Autonomous agents\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+E:\Latest versions\Autonomous agents\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+E:\Latest versions\Autonomous agents\Src\Libraries\ImageProcessingLibrary\bin\Debug\CustomUserControlsLibrary.dll
+E:\Latest versions\Autonomous agents\Src\Libraries\ImageProcessingLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+E:\Latest versions\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.MotionDetection.MotionDetectionControl.resources
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.MotionDetection.MotionDetectionControl.resources
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.OLDHistogramPlot.resources
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.GenerateResource.Cache
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\ImageProcessingLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\ImageProcessingLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.MotionDetection.MotionDetectionControl.resources
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.GenerateResource.Cache
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\ImageProcessingLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\ImageProcessingLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.MotionDetection.MotionDetectionControl.resources
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.GenerateResource.Cache
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\ImageProcessingLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\ImageProcessingLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.MotionDetection.MotionDetectionControl.resources
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.GenerateResource.Cache
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2019\Src\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.MotionDetection.MotionDetectionControl.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.GenerateResource.Cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.MotionDetection.MotionDetectionControl.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.GenerateResource.Cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\ImageProcessingLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\ImageProcessingLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\ImageProcessingLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\ImageProcessingLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\ImageProcessingLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\ImageProcessingLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.MotionDetection.MotionDetectionControl.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.GenerateResource.Cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\ImageProcessingLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\ImageProcessingLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.MotionDetection.MotionDetectionControl.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.GenerateResource.Cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\ImageProcessingLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\ImageProcessingLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.MotionDetection.MotionDetectionControl.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.GenerateResource.Cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\ImageProcessingLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\ImageProcessingLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csprojAssemblyReference.cache
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.MotionDetection.MotionDetectionControl.resources
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.GenerateResource.cache
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.CopyComplete
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\bin\Debug\ImageProcessingLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csprojAssemblyReference.cache
+C:\Users\estel\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraSetupControl.resources
+C:\Users\estel\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.Cameras.CameraViewControl.resources
+C:\Users\estel\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.MotionDetection.MotionDetectionControl.resources
+C:\Users\estel\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.GenerateResource.cache
+C:\Users\estel\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.csproj.CopyComplete
+C:\Users\estel\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\ImageProcessingLibrary\obj\Debug\ImageProcessingLibrary.pdb

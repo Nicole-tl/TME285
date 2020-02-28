@@ -1,0 +1,243 @@
+C:\Data\Research\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\AudioLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\AudioLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Research\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+E:\Chalmers work\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\AudioLibrary.dll
+E:\Chalmers work\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\AudioLibrary.pdb
+E:\Chalmers work\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.dll
+E:\Chalmers work\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+E:\Chalmers work\Autonomous agents\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csprojResolveAssemblyReference.cache
+E:\Chalmers work\Autonomous agents\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.dll
+E:\Chalmers work\Autonomous agents\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.pdb
+E:\Chalmers work\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.dll
+E:\Chalmers work\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.pdb
+E:\Chalmers work\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.dll
+E:\Chalmers work\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\AudioLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\AudioLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\bin\Debug\AudioLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\bin\Debug\AudioLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\obj\Debug\AudioLibrary.Visualization.AugmentedSoundVisualizer.resources
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csproj.GenerateResource.Cache
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\obj\Debug\AudioLibrary.dll
+C:\Data\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\obj\Debug\AudioLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\bin\Debug\AudioLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\bin\Debug\AudioLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\obj\Debug\AudioLibrary.Visualization.AugmentedSoundVisualizer.resources
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csproj.GenerateResource.Cache
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\obj\Debug\AudioLibrary.dll
+C:\Data\Chalmers work\Research\Autonomous agents\SrcNew\Libraries\AudioLibrary\obj\Debug\AudioLibrary.pdb
+C:\Data\Chalmers work\Research\Travel information agent\Src\CognitiveArchitectureSolution\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Research\Travel information agent\Src\CognitiveArchitectureSolution\Libraries\AudioLibrary\obj\Debug\AudioLibrary.Visualization.AugmentedSoundVisualizer.resources
+C:\Data\Chalmers work\Research\Travel information agent\Src\CognitiveArchitectureSolution\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csproj.GenerateResource.Cache
+C:\Data\Chalmers work\Research\Travel information agent\Src\CognitiveArchitectureSolution\Libraries\AudioLibrary\obj\Debug\AudioLibrary.dll
+C:\Data\Chalmers work\Research\Travel information agent\Src\CognitiveArchitectureSolution\Libraries\AudioLibrary\obj\Debug\AudioLibrary.pdb
+C:\Data\Chalmers work\Research\Travel information agent\Src\CognitiveArchitectureSolution\Libraries\AudioLibrary\bin\Debug\AudioLibrary.dll
+C:\Data\Chalmers work\Research\Travel information agent\Src\CognitiveArchitectureSolution\Libraries\AudioLibrary\bin\Debug\AudioLibrary.pdb
+C:\Data\Chalmers work\Research\Travel information agent\Src\CognitiveArchitectureSolution\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Research\Travel information agent\Src\CognitiveArchitectureSolution\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Research\Travel information agent\Src\CognitiveArchitectureSolution\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Chalmers work\Research\Travel information agent\Src\CognitiveArchitectureSolution\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Research\Travel information agent\Src\CognitiveArchitectureSolution\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Research\Travel information agent\Src\CognitiveArchitectureSolution\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Chalmers work\Research\Image-based SR\Src\Libraries\AudioLibrary\bin\Debug\AudioLibrary.dll
+C:\Data\Chalmers work\Research\Image-based SR\Src\Libraries\AudioLibrary\bin\Debug\AudioLibrary.pdb
+C:\Data\Chalmers work\Research\Image-based SR\Src\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Research\Image-based SR\Src\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Chalmers work\Research\Image-based SR\Src\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Research\Image-based SR\Src\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Chalmers work\Research\Image-based SR\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Research\Image-based SR\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.Visualization.AugmentedSoundVisualizer.resources
+C:\Data\Chalmers work\Research\Image-based SR\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csproj.GenerateResource.Cache
+C:\Data\Chalmers work\Research\Image-based SR\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.dll
+C:\Data\Chalmers work\Research\Image-based SR\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.pdb
+C:\Data\Chalmers work\Research\Image-based SR\Src\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Research\Image-based SR\Src\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Research\Image-based SR\Src\Libraries\AudioLibrary\bin\Debug\AudioLibrary.dll
+C:\Data\Research\Image-based SR\Src\Libraries\AudioLibrary\bin\Debug\AudioLibrary.pdb
+C:\Data\Research\Image-based SR\Src\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Research\Image-based SR\Src\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Research\Image-based SR\Src\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Research\Image-based SR\Src\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Research\Image-based SR\Src\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Research\Image-based SR\Src\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Research\Image-based SR\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Research\Image-based SR\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.Visualization.AugmentedSoundVisualizer.resources
+C:\Data\Research\Image-based SR\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csproj.GenerateResource.Cache
+C:\Data\Research\Image-based SR\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.dll
+C:\Data\Research\Image-based SR\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.pdb
+C:\Data\Chalmers work\Research\Autoevolving SR\Src\Libraries\AudioLibrary\bin\Debug\AudioLibrary.dll
+C:\Data\Chalmers work\Research\Autoevolving SR\Src\Libraries\AudioLibrary\bin\Debug\AudioLibrary.pdb
+C:\Data\Chalmers work\Research\Autoevolving SR\Src\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Research\Autoevolving SR\Src\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Research\Autoevolving SR\Src\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Chalmers work\Research\Autoevolving SR\Src\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Research\Autoevolving SR\Src\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Research\Autoevolving SR\Src\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Chalmers work\Research\Autoevolving SR\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Research\Autoevolving SR\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.Visualization.AugmentedSoundVisualizer.resources
+C:\Data\Chalmers work\Research\Autoevolving SR\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csproj.GenerateResource.Cache
+C:\Data\Chalmers work\Research\Autoevolving SR\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.dll
+C:\Data\Chalmers work\Research\Autoevolving SR\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.pdb
+C:\Data\Research\Autoevolving SR\Src\Libraries\AudioLibrary\bin\Debug\AudioLibrary.dll
+C:\Data\Research\Autoevolving SR\Src\Libraries\AudioLibrary\bin\Debug\AudioLibrary.pdb
+C:\Data\Research\Autoevolving SR\Src\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Research\Autoevolving SR\Src\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Research\Autoevolving SR\Src\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Research\Autoevolving SR\Src\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Research\Autoevolving SR\Src\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Research\Autoevolving SR\Src\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Research\Autoevolving SR\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Research\Autoevolving SR\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.Visualization.AugmentedSoundVisualizer.resources
+C:\Data\Research\Autoevolving SR\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csproj.GenerateResource.Cache
+C:\Data\Research\Autoevolving SR\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.dll
+C:\Data\Research\Autoevolving SR\Src\Libraries\AudioLibrary\obj\Debug\AudioLibrary.pdb
+C:\Data\Chalmers work\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\bin\Debug\AudioLibrary.dll
+C:\Data\Chalmers work\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\bin\Debug\AudioLibrary.pdb
+C:\Data\Chalmers work\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Chalmers work\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Chalmers work\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\obj\Debug\AudioLibrary.Visualization.AugmentedSoundVisualizer.resources
+C:\Data\Chalmers work\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csproj.GenerateResource.Cache
+C:\Data\Chalmers work\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\obj\Debug\AudioLibrary.dll
+C:\Data\Chalmers work\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\obj\Debug\AudioLibrary.pdb
+C:\Data\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\bin\Debug\AudioLibrary.dll
+C:\Data\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\bin\Debug\AudioLibrary.pdb
+C:\Data\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\obj\Debug\AudioLibrary.Visualization.AugmentedSoundVisualizer.resources
+C:\Data\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csproj.GenerateResource.Cache
+C:\Data\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\obj\Debug\AudioLibrary.dll
+C:\Data\Research\Autoevolving SR\SrcNew\Libraries\AudioLibrary\obj\Debug\AudioLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\bin\Debug\AudioLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\bin\Debug\AudioLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\obj\Debug\AudioLibrary.Visualization.AugmentedSoundVisualizer.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csproj.GenerateResource.Cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\obj\Debug\AudioLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\obj\Debug\AudioLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\bin\Debug\AudioLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\bin\Debug\AudioLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\obj\Debug\AudioLibrary.Visualization.AugmentedSoundVisualizer.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csproj.GenerateResource.Cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\obj\Debug\AudioLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AudioLibrary\obj\Debug\AudioLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AudioLibrary\bin\Debug\AudioLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AudioLibrary\bin\Debug\AudioLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AudioLibrary\obj\Debug\AudioLibrary.Visualization.AugmentedSoundVisualizer.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csproj.GenerateResource.Cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AudioLibrary\obj\Debug\AudioLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AudioLibrary\obj\Debug\AudioLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AudioLibrary\bin\Debug\AudioLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AudioLibrary\bin\Debug\AudioLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AudioLibrary\obj\Debug\AudioLibrary.Visualization.AugmentedSoundVisualizer.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csproj.GenerateResource.Cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AudioLibrary\obj\Debug\AudioLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AudioLibrary\obj\Debug\AudioLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AudioLibrary\bin\Debug\AudioLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AudioLibrary\bin\Debug\AudioLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AudioLibrary\obj\Debug\AudioLibrary.Visualization.AugmentedSoundVisualizer.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csproj.GenerateResource.Cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AudioLibrary\obj\Debug\AudioLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AudioLibrary\obj\Debug\AudioLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AudioLibrary\bin\Debug\AudioLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AudioLibrary\bin\Debug\AudioLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csprojAssemblyReference.cache
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AudioLibrary\obj\Debug\AudioLibrary.Visualization.AugmentedSoundVisualizer.resources
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csproj.GenerateResource.cache
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csproj.CopyComplete
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AudioLibrary\obj\Debug\AudioLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AudioLibrary\obj\Debug\AudioLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\AudioLibrary\bin\Debug\AudioLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\AudioLibrary\bin\Debug\AudioLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\AudioLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\AudioLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\AudioLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csprojAssemblyReference.cache
+C:\Users\estel\Documents\IPASrc_1\Libraries\AudioLibrary\obj\Debug\AudioLibrary.Visualization.AugmentedSoundVisualizer.resources
+C:\Users\estel\Documents\IPASrc_1\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csproj.GenerateResource.cache
+C:\Users\estel\Documents\IPASrc_1\Libraries\AudioLibrary\obj\Debug\AudioLibrary.csproj.CopyComplete
+C:\Users\estel\Documents\IPASrc_1\Libraries\AudioLibrary\obj\Debug\AudioLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\AudioLibrary\obj\Debug\AudioLibrary.pdb

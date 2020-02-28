@@ -1,0 +1,129 @@
+C:\Data\Chalmers work\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\AgentLibrary\bin\Debug\AgentLibrary.dll
+C:\Data\Chalmers work\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\AgentLibrary\bin\Debug\AgentLibrary.pdb
+C:\Data\Chalmers work\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\AgentLibrary\obj\Debug\AgentLibrary.dll
+C:\Data\Chalmers work\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\AgentLibrary\obj\Debug\AgentLibrary.pdb
+C:\Data\Chalmers work\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\AgentLibrary\obj\Debug\AgentLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\AgentLibrary\obj\Debug\AgentLibrary.dll
+C:\Data\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\AgentLibrary\obj\Debug\AgentLibrary.pdb
+C:\Data\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\AgentLibrary\bin\Debug\AgentLibrary.dll
+C:\Data\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\AgentLibrary\bin\Debug\AgentLibrary.pdb
+C:\Data\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\AgentLibrary\obj\Debug\AgentLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\AgentLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\AgentLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\AgentLibrary\obj\Debug\AgentLibrary.Visualization.ShortTermMemoryTextViewer.resources
+C:\Data\Chalmers work\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\AgentLibrary\obj\Debug\AgentLibrary.csproj.GenerateResource.Cache
+C:\Data\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\AgentLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\AgentLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\AgentLibrary\obj\Debug\AgentLibrary.Visualization.ShortTermMemoryTextViewer.resources
+C:\Data\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\AgentLibrary\obj\Debug\AgentLibrary.csproj.GenerateResource.Cache
+C:\Data\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\AgentLibrary\bin\Debug\HumanLanguageLibrary.dll
+C:\Data\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\AgentLibrary\bin\Debug\HumanLanguageLibrary.pdb
+C:\Data\Chalmers work\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\AgentLibrary\bin\Debug\HumanLanguageLibrary.dll
+C:\Data\Chalmers work\Research\Cognitive architecture\Src\CognitiveArchitectureSolution\Libraries\AgentLibrary\bin\Debug\HumanLanguageLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\obj\Debug\AgentLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\obj\Debug\AgentLibrary.csproj.GenerateResource.Cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\obj\Debug\AgentLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\obj\Debug\AgentLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\bin\Debug\AgentLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\bin\Debug\AgentLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\bin\Debug\HumanLanguageLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\bin\Debug\HumanLanguageLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\bin\Debug\AgentLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\bin\Debug\AgentLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\bin\Debug\HumanLanguageLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\bin\Debug\HumanLanguageLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\obj\Debug\AgentLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\obj\Debug\AgentLibrary.csproj.GenerateResource.Cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\obj\Debug\AgentLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\obj\Debug\AgentLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AgentLibrary\bin\Debug\AgentLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AgentLibrary\bin\Debug\AgentLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AgentLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AgentLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AgentLibrary\bin\Debug\HumanLanguageLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AgentLibrary\bin\Debug\ObjectSerializer.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AgentLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AgentLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AgentLibrary\bin\Debug\HumanLanguageLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AgentLibrary\bin\Debug\ObjectSerializer.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AgentLibrary\obj\Debug\AgentLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AgentLibrary\obj\Debug\AgentLibrary.Visualization.ShortTermMemoryTextViewer.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AgentLibrary\obj\Debug\AgentLibrary.csproj.GenerateResource.Cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AgentLibrary\obj\Debug\AgentLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\AgentLibrary\obj\Debug\AgentLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\obj\Debug\AgentLibrary.Visualization.WorkingMemoryTextViewer.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\obj\Debug\AgentLibrary.Visualization.WorkingMemoryTextViewer.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AgentLibrary\bin\Debug\AgentLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AgentLibrary\bin\Debug\AgentLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AgentLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AgentLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AgentLibrary\bin\Debug\HumanLanguageLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AgentLibrary\bin\Debug\ObjectSerializer.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AgentLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AgentLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AgentLibrary\bin\Debug\HumanLanguageLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AgentLibrary\bin\Debug\ObjectSerializer.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AgentLibrary\obj\Debug\AgentLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AgentLibrary\obj\Debug\AgentLibrary.Visualization.WorkingMemoryTextViewer.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AgentLibrary\obj\Debug\AgentLibrary.csproj.GenerateResource.Cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AgentLibrary\obj\Debug\AgentLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\AgentLibrary\obj\Debug\AgentLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\bin\Debug\ObjectSerializerLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\bin\Debug\ObjectSerializerLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\bin\Debug\ObjectSerializerLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\AgentLibrary\bin\Debug\ObjectSerializerLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AgentLibrary\bin\Debug\AgentLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AgentLibrary\bin\Debug\AgentLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AgentLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AgentLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AgentLibrary\bin\Debug\HumanLanguageLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AgentLibrary\bin\Debug\ObjectSerializerLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AgentLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AgentLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AgentLibrary\bin\Debug\HumanLanguageLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AgentLibrary\bin\Debug\ObjectSerializerLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AgentLibrary\obj\Debug\AgentLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AgentLibrary\obj\Debug\AgentLibrary.Visualization.WorkingMemoryTextViewer.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AgentLibrary\obj\Debug\AgentLibrary.csproj.GenerateResource.Cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AgentLibrary\obj\Debug\AgentLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\AgentLibrary\obj\Debug\AgentLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AgentLibrary\bin\Debug\AgentLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AgentLibrary\bin\Debug\AgentLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AgentLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AgentLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AgentLibrary\bin\Debug\HumanLanguageLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AgentLibrary\bin\Debug\ObjectSerializerLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AgentLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AgentLibrary\bin\Debug\HumanLanguageLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AgentLibrary\bin\Debug\ObjectSerializerLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AgentLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AgentLibrary\obj\Debug\AgentLibrary.csprojAssemblyReference.cache
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AgentLibrary\obj\Debug\AgentLibrary.Visualization.WorkingMemoryTextViewer.resources
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AgentLibrary\obj\Debug\AgentLibrary.csproj.GenerateResource.cache
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AgentLibrary\obj\Debug\AgentLibrary.csproj.CopyComplete
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AgentLibrary\obj\Debug\AgentLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\AgentLibrary\obj\Debug\AgentLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\AgentLibrary\bin\Debug\AgentLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\AgentLibrary\bin\Debug\AgentLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\AgentLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\AgentLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\AgentLibrary\bin\Debug\HumanLanguageLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\AgentLibrary\bin\Debug\ObjectSerializerLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\AgentLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\AgentLibrary\bin\Debug\HumanLanguageLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\AgentLibrary\bin\Debug\ObjectSerializerLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\AgentLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\AgentLibrary\obj\Debug\AgentLibrary.csprojAssemblyReference.cache
+C:\Users\estel\Documents\IPASrc_1\Libraries\AgentLibrary\obj\Debug\AgentLibrary.Visualization.WorkingMemoryTextViewer.resources
+C:\Users\estel\Documents\IPASrc_1\Libraries\AgentLibrary\obj\Debug\AgentLibrary.csproj.GenerateResource.cache
+C:\Users\estel\Documents\IPASrc_1\Libraries\AgentLibrary\obj\Debug\AgentLibrary.csproj.CopyComplete
+C:\Users\estel\Documents\IPASrc_1\Libraries\AgentLibrary\obj\Debug\AgentLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\AgentLibrary\obj\Debug\AgentLibrary.pdb

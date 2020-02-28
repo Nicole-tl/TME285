@@ -1,0 +1,15 @@
+C:\Data\Research\Autonomous agents\Src\Libraries\ThreeDimensionalVisualizationLibrary\bin\Release\ThreeDimensionalVisualizationLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\ThreeDimensionalVisualizationLibrary\bin\Release\ThreeDimensionalVisualizationLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\ThreeDimensionalVisualizationLibrary\bin\Release\CustomUserControlsLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\ThreeDimensionalVisualizationLibrary\bin\Release\MathematicsLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\ThreeDimensionalVisualizationLibrary\bin\Release\OpenTK.Compatibility.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\ThreeDimensionalVisualizationLibrary\bin\Release\OpenTK.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\ThreeDimensionalVisualizationLibrary\bin\Release\OpenTK.GLControl.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\ThreeDimensionalVisualizationLibrary\bin\Release\CustomUserControlsLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\ThreeDimensionalVisualizationLibrary\bin\Release\MathematicsLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\ThreeDimensionalVisualizationLibrary\bin\Release\OpenTK.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\ThreeDimensionalVisualizationLibrary\bin\Release\OpenTK.xml
+C:\Data\Research\Autonomous agents\Src\Libraries\ThreeDimensionalVisualizationLibrary\bin\Release\OpenTK.GLControl.xml
+C:\Data\Research\Autonomous agents\Src\Libraries\ThreeDimensionalVisualizationLibrary\obj\Release\ThreeDimensionalVisualizationLibrary.dll
+C:\Data\Research\Autonomous agents\Src\Libraries\ThreeDimensionalVisualizationLibrary\obj\Release\ThreeDimensionalVisualizationLibrary.pdb
+C:\Data\Research\Autonomous agents\Src\Libraries\ThreeDimensionalVisualizationLibrary\obj\Release\ThreeDimensionalVisualizationLibrary.csprojResolveAssemblyReference.cache

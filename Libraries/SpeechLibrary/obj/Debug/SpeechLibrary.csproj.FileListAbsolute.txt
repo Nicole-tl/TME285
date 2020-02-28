@@ -1,0 +1,106 @@
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\SpeechLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\SpeechLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\AudioLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\Microsoft.Speech.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\AudioLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\obj\Debug\SpeechLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\obj\Debug\SpeechLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\obj\Debug\SpeechLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\SpeechLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\SpeechLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\AudioLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\Microsoft.Speech.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\AudioLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\obj\Debug\SpeechLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\obj\Debug\SpeechLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\obj\Debug\SpeechLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\SpeechLibrary\bin\Debug\SpeechLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\SpeechLibrary\bin\Debug\SpeechLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\SpeechLibrary\bin\Debug\AudioLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\SpeechLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\SpeechLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\SpeechLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\SpeechLibrary\bin\Debug\Microsoft.Speech.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\SpeechLibrary\bin\Debug\AudioLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\SpeechLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\SpeechLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\SpeechLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\SpeechLibrary\obj\Debug\SpeechLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\SpeechLibrary\obj\Debug\SpeechLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Libraries\SpeechLibrary\obj\Debug\SpeechLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\NAudio.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Libraries\SpeechLibrary\bin\Debug\NAudio.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\SpeechLibrary\bin\Debug\SpeechLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\SpeechLibrary\bin\Debug\SpeechLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\SpeechLibrary\bin\Debug\AudioLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\SpeechLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\SpeechLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\SpeechLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\SpeechLibrary\bin\Debug\Microsoft.Speech.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\SpeechLibrary\bin\Debug\NAudio.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\SpeechLibrary\bin\Debug\AudioLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\SpeechLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\SpeechLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\SpeechLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\SpeechLibrary\obj\Debug\SpeechLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\SpeechLibrary\obj\Debug\SpeechLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Libraries\SpeechLibrary\obj\Debug\SpeechLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\SpeechLibrary\bin\Debug\SpeechLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\SpeechLibrary\bin\Debug\SpeechLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\SpeechLibrary\bin\Debug\AudioLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\SpeechLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\SpeechLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\SpeechLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\SpeechLibrary\bin\Debug\Microsoft.Speech.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\SpeechLibrary\bin\Debug\NAudio.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\SpeechLibrary\bin\Debug\AudioLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\SpeechLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\SpeechLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\SpeechLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\SpeechLibrary\obj\Debug\SpeechLibrary.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\SpeechLibrary\obj\Debug\SpeechLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Libraries\SpeechLibrary\obj\Debug\SpeechLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\SpeechLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\SpeechLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\AudioLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\Microsoft.Speech.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\NAudio.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\AudioLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\SpeechLibrary\obj\Debug\SpeechLibrary.csprojAssemblyReference.cache
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\SpeechLibrary\obj\Debug\SpeechLibrary.csproj.CopyComplete
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\SpeechLibrary\obj\Debug\SpeechLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Libraries\SpeechLibrary\obj\Debug\SpeechLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\SpeechLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\SpeechLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\AudioLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\CustomUserControlsLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\MathematicsLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\Microsoft.Speech.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\NAudio.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\AudioLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\MathematicsLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\SpeechLibrary\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Libraries\SpeechLibrary\obj\Debug\SpeechLibrary.csprojAssemblyReference.cache
+C:\Users\estel\Documents\IPASrc_1\Libraries\SpeechLibrary\obj\Debug\SpeechLibrary.csproj.CopyComplete
+C:\Users\estel\Documents\IPASrc_1\Libraries\SpeechLibrary\obj\Debug\SpeechLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Libraries\SpeechLibrary\obj\Debug\SpeechLibrary.pdb
