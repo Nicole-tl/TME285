@@ -1029,7 +1029,7 @@ namespace AgentApplication
             // Major dialougue - city guide
             #region
             // First part - recommend a resturant
-            InputAction inputAction1 = new InputAction(new List<Pattern>() { new Pattern("Can you recommend me a resturant?") }, "A002.00002");
+            InputAction inputAction1 = new InputAction(new List<Pattern>() { new Pattern("Can you recommend me a restaurant?") }, "A002.00002");
             InputItem inputItem1 = new InputItem("A002.00001", new List<InputAction> { inputAction1 }, null);
             inputItem1.IsEntryPoint = true;    // Entrypoint
             agent.LongTermMemory.AddItem(inputItem1);
