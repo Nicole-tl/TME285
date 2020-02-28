@@ -1,0 +1,16 @@
+% Basic country data
+
+DataItem
+name		France
+category	country
+capital		Paris
+
+DataItem
+name		Germany
+category	country
+capital		Berlin
+
+DataItem
+name		Japan
+category	country
+capital		Tokyo

@@ -1,0 +1,289 @@
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.exe.config
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.exe
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\SpeechLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AudioLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\Microsoft.Speech.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\MathematicsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\SpeechLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AudioLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.MainForm.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.Properties.Resources.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csproj.GenerateResource.Cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.exe
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.exe.config
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AgentLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\Microsoft.Speech.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\SpeechLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\HumanLanguageLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AudioLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\MathematicsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AgentLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\SpeechLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\HumanLanguageLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AudioLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.MainForm.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csproj.GenerateResource.Cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AgentLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\HumanLanguageLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AgentLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\HumanLanguageLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.GLControl.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.GLControl.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.exe.config
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.exe
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.exe
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\AgentLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\AudioLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\Microsoft.Speech.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\ObjectSerializer.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.GLControl.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\SpeechLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\HumanLanguageLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\MathematicsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\AgentLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\AudioLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\ObjectSerializer.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\SpeechLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\HumanLanguageLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.MainForm.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.Properties.Resources.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csproj.GenerateResource.Cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\NAudio.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\NAudio.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.exe.config
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.exe
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.exe
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\AgentLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\AudioLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\Microsoft.Speech.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\ObjectSerializer.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.GLControl.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\SpeechLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\HumanLanguageLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\MathematicsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\NAudio.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\AgentLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\AudioLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\ObjectSerializer.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\SpeechLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\HumanLanguageLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.MainForm.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.Properties.Resources.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csproj.GenerateResource.Cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\ObjectSerializerLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\ObjectSerializerLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\ObjectSerializerLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\ObjectSerializerLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.exe.config
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AgentLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AudioLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\Microsoft.Speech.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\ObjectSerializerLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.GLControl.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\SpeechLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\HumanLanguageLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\MathematicsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\NAudio.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AgentLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AudioLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\ObjectSerializerLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\SpeechLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\HumanLanguageLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.MainForm.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csproj.GenerateResource.Cache
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.exe.config
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.exe
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.exe
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AgentLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AudioLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\Microsoft.Speech.dll
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\ObjectSerializerLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.dll
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.GLControl.dll
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\SpeechLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\HumanLanguageLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\MathematicsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\NAudio.dll
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AgentLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AudioLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\ObjectSerializerLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\SpeechLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.pdb
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\HumanLanguageLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\bin\Debug\MathematicsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.MainForm.resources
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.Properties.Resources.resources
+C:\Data\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csproj.GenerateResource.Cache
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csprojAssemblyReference.cache
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.exe
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.exe.config
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.exe
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\AgentLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\AudioLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\CommunicationLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\Microsoft.Speech.dll
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\ObjectSerializerLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.dll
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\SpeechLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\HumanLanguageLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\MathematicsLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\NAudio.dll
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\AgentLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\AudioLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\ObjectSerializerLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\SpeechLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\HumanLanguageLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\MathematicsLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.MainForm.resources
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.Properties.Resources.resources
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csproj.GenerateResource.cache
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csproj.CopyComplete
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csprojAssemblyReference.cache
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.exe
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.pdb
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.exe.config
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.exe
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\AgentApplication.pdb
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\AgentLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\AudioLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\CommunicationLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\Microsoft.Speech.dll
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\ObjectSerializerLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.dll
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.GLControl.dll
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\SpeechLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\HumanLanguageLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\MathematicsLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\NAudio.dll
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\AgentLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\AudioLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\InternetDataAcquisitionLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\ObjectSerializerLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\SpeechLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\ThreeDimensionalVisualizationLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\OpenTK.pdb
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\HumanLanguageLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\MathematicsLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.MainForm.resources
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.Properties.Resources.resources
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csproj.GenerateResource.cache
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csproj.CopyComplete

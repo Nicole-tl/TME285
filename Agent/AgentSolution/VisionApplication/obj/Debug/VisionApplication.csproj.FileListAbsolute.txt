@@ -1,0 +1,128 @@
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\VisionApplication.exe.config
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\VisionApplication.exe
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\VisionApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\DirectShowLib-2005.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.Properties.Resources.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.VisionMainForm.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.csproj.GenerateResource.Cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.exe
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\VisionApplication.exe.config
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\VisionApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\VisionApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\DirectShowLib-2005.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.VisionMainForm.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.csproj.GenerateResource.Cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\IPASrc\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\VisionApplication\bin\Debug\VisionApplication.exe.config
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\VisionApplication\bin\Debug\VisionApplication.exe
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\VisionApplication\bin\Debug\VisionApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\VisionApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\VisionApplication\bin\Debug\DirectShowLib-2005.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\VisionApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.Properties.Resources.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.VisionMainForm.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.csproj.GenerateResource.Cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.exe
+C:\Data\Teaching\Intelligent agents, 2020\IPASrcDoNotUse\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\VisionApplication\bin\Debug\VisionApplication.exe.config
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\VisionApplication\bin\Debug\VisionApplication.exe
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\VisionApplication\bin\Debug\VisionApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\VisionApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\VisionApplication\bin\Debug\DirectShowLib-2005.dll
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\VisionApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.csprojResolveAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.Properties.Resources.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.VisionMainForm.resources
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.csproj.GenerateResource.Cache
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.exe
+C:\Data\Teaching\Intelligent agents, 2020\IPASrc - Copy\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\VisionApplication.exe.config
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\VisionApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\VisionApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\CommunicationLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\DirectShowLib-2005.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.VisionMainForm.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.csproj.GenerateResource.Cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2020\Canvas\IPASrc\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.csprojAssemblyReference.cache
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.exe
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\VisionApplication.exe.config
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\VisionApplication.exe
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\VisionApplication.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\CommunicationLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\DirectShowLib-2005.dll
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.Properties.Resources.resources
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.VisionMainForm.resources
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.csproj.GenerateResource.cache
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.csproj.CopyComplete
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.csprojAssemblyReference.cache
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.exe
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.pdb
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\VisionApplication.exe.config
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\VisionApplication.exe
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\VisionApplication.pdb
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\CommunicationLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\DirectShowLib-2005.dll
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\CommunicationLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\ImageProcessingLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\bin\Debug\CustomUserControlsLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.Properties.Resources.resources
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.VisionMainForm.resources
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.csproj.GenerateResource.cache
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\VisionApplication\obj\Debug\VisionApplication.csproj.CopyComplete
