@@ -65,13 +65,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddedClasses\MyFindLastOutputAction.cs" />
+    <Compile Include="AddedClasses\GetPhoneNumber.cs" />
+    <Compile Include="AddedClasses\FindLargestByTagAction.cs" />
+    <Compile Include="AddedClasses\GenerateDisplayTextPathAction.cs" />
     <Compile Include="AddedClasses\GetCurrentWeekdayAction.cs" />
     <Compile Include="AddedClasses\GetCurrentDateAction.cs" />
     <Compile Include="AddedClasses\GetCurrentTimeAction.cs" />
     <Compile Include="AddedClasses\internetDataDownloader.cs" />
-    <Compile Include="AddedClasses\CognitiveActionTemplate.cs" />
+    <Compile Include="AddedClasses\ShortestDistanceToChalmersAction.cs" />
     <Compile Include="AddedClasses\GetListFromLTM.cs" />
-    <Compile Include="AddedClasses\TimeAction.cs" />
     <Compile Include="AgentConfiguration.cs" />
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
@@ -123,6 +126,10 @@
       <Project>{b0724342-836a-434a-889e-68d4fbf9f2d1}</Project>
       <Name>CommunicationLibrary</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\..\Libraries\ImageProcessingLibrary\ImageProcessingLibrary.csproj">
+      <Project>{bbd065df-402b-45dd-abf0-e7fe66dbc8a9}</Project>
+      <Name>ImageProcessingLibrary</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\..\Libraries\InternetDataAcquisitionLibrary\InternetDataAcquisitionLibrary.csproj">
       <Project>{c67420c1-6d52-43d1-bcca-947c7bb8a53b}</Project>
       <Name>InternetDataAcquisitionLibrary</Name>
@@ -138,6 +145,10 @@
     <ProjectReference Include="..\..\..\Libraries\ThreeDimensionalVisualizationLibrary\ThreeDimensionalVisualizationLibrary.csproj">
       <Project>{42bec207-a20b-4d36-a375-5cd84afeee94}</Project>
       <Name>ThreeDimensionalVisualizationLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VisionApplication\VisionApplication.csproj">
+      <Project>{7276719b-e1ba-4358-8530-07bc4f87832e}</Project>
+      <Name>VisionApplication</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

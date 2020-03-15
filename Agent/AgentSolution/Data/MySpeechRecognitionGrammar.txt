@@ -1,0 +1,17 @@
+Grammar: BasicWords = yes, no, Bob
+Grammar: NameRequest = what is your name?
+Grammar: NameAnswer = my name is Nicole
+Grammar: TimeRequest = what time is it
+Grammar: DateRequest = what date is it, what date is it today
+Grammar: WeekdayRequest = what weekday is it, what weekday is it today
+Grammar: ThankYou = thank you, thanks
+Choice: NumberChoice = 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+Choice: Topic = restaurant, museum
+Grammar: Recommendation = can you recommend me a <#Topic>, do you have any good recommendation of <#Topic>
+Choice: Category = swedish, international, tapas, chinese
+Grammar: ChooseCuisine = i am interested in <#Category> food
+Grammar: RestaurantDistance = which is the closest one, which one is closest, which is the closest
+Grammar: LargestMuseum = which one is largest, which museum is the largest one, which is the largest
+Grammar: MakeResrvation = Can you help me to make a reservation, Could you help me to make a reservation
+Grammar: AmountPeople = <#NumberChoice> people
+

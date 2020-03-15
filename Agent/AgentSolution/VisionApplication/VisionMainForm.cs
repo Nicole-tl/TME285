@@ -48,6 +48,8 @@ namespace VisionApplication
         private string startMessage = DEFAULT_START_MESSAGE;
         private string stopMessage = DEFAULT_STOP_MESSAGE;
 
+        public Boolean faceDe = true;
+        public string message = "FaceLost";
         //
         // Note to students: This is just an example - you
         // may certainly wish to improve upon this simple
@@ -66,7 +68,7 @@ namespace VisionApplication
         // VideoProcessingApplication under Demonstrations/, as 
         // well as the classes in ImageProcessingLibrary.MotionDetection.
         //
-        private SkinPixelBasedDetector faceDetector;
+        private MyFaceDetector faceDetector;
 
         public VisionMainForm()
         {
@@ -74,12 +76,16 @@ namespace VisionApplication
             Boolean initializationOK = Initialize();
             if (initializationOK)
             {
+                // Starting the camera with 40 seconds delay 
+                System.Threading.Thread.Sleep(40000);
                 Start();
                 Connect();
             }
+            
+
         }
 
-        
+
         private Boolean Initialize()
         {
             formWidth = this.Width;
@@ -160,7 +166,7 @@ namespace VisionApplication
             camera.ImageWidth = cameraWidth;
             camera.ImageHeight = cameraHeight;
             camera.Start();
-            faceDetector = new SkinPixelBasedDetector();
+            faceDetector = new MyFaceDetector();
             faceDetector.SetCamera(camera);
             faceDetector.Start();
             faceDetectionControl.SetCamera(camera);
@@ -169,17 +175,27 @@ namespace VisionApplication
             faceDetectionControl.ShowProcessedBitmap = showProcessedBitmapToolStripMenuItem.Checked;
             faceDetectionControl.ShowBoundingBox = showBoundingBoxToolStripMenuItem.Checked;
             faceDetectionControl.ShowCenterLine = showCenterLineToolStripMenuItem.Checked;
+            faceDetector.FaceBoundingBoxAvailable += new EventHandler<FaceDetectionEventArgs>(HandleFaceDetected);             //Added line
             stopCameraButton.Enabled = true;
             running = true;
         }
 
-        //
-        // Note to students:
-        // This method handles messages received from the agent
-        // Modify as required for your agent application.
-        // If you don't want the application to autostart the camera, 
-        // then comment out line 77 ("Start();") above.
-        //
+        private void HandleFaceDetected(object sender, FaceDetectionEventArgs e)
+        {
+            if (faceDe == true)
+            {
+                message = "FaceDetected";
+                faceDe = false;
+            }
+            else
+            {
+                message = "FaceLost";
+            }
+            client.Send(message); // sends the message to the agent
+            faceDe = false;
+
+        }
+
         private void HandleClientReceived(object sender, DataPacketEventArgs e)
         {
             string message = e.DataPacket.Message;

@@ -1,6 +1,23 @@
-﻿using System;
+﻿using AgentApplication.AddedClasses;
+using AgentLibrary;
+using AgentLibrary.Cognition;
+using AgentLibrary.EventArgsClasses;
+using AgentLibrary.Internet;
+using AgentLibrary.IO;
+using AgentLibrary.Memories;
+using AgentLibrary.Patterns;
+using AudioLibrary;
+using AuxiliaryLibrary;
+using CommunicationLibrary;
+using CustomUserControlsLibrary;
+using Microsoft.Speech.Synthesis;
+using ObjectSerializerLibrary;
+using OpenTK;
+using SpeechLibrary;
+using SpeechLibrary.Modification.Resampling;
+using SpeechLibrary.Visualization;
+using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
 using System.Diagnostics;
 using System.Drawing;
@@ -11,33 +28,13 @@ using System.Reflection;
 using System.Runtime.InteropServices;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Speech.Recognition;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using AgentLibrary;
-using AgentLibrary.Cognition;
-using AgentLibrary.EventArgsClasses;
-using AgentLibrary.Internet;
-using AgentLibrary.IO;
-using AgentLibrary.Memories;
-using AgentLibrary.Patterns;
-using AgentLibrary.UserControls;
-using AudioLibrary;
-using AuxiliaryLibrary;
-using CommunicationLibrary;
-using CustomUserControlsLibrary;
-using ObjectSerializerLibrary;
-using SpeechLibrary;
-using SpeechLibrary.Visualization;
-using SpeechLibrary.Modification.Resampling;
 using ThreeDimensionalVisualizationLibrary;
 using ThreeDimensionalVisualizationLibrary.Animations;
 using ThreeDimensionalVisualizationLibrary.Objects;
-using Microsoft.Speech.Synthesis;
-using OpenTK.Graphics.OpenGL;
-using OpenTK;
-using AgentApplication.AddedClasses;
+
+//Add vision application (?)
 
 namespace AgentApplication
 {
@@ -341,11 +338,7 @@ namespace AgentApplication
             // Set up internet downloader(s)
             dataDownloaderList = new List<DataDownloader>();
 
-            // NOTE TO STUDENTS: this is just an example: You must write your own
-            // downloader class (derived from the base class DataDownloader) and
-            // place it in the AddedClasses/ folder.
-
-            yelpDataDownloader dataDownloader = new yelpDataDownloader();  
+            internetDataDownload dataDownloader = new internetDataDownload();  
             dataDownloader.DownloadComplete += new EventHandler<DataItemListEventArgs>(HandleDownloadComplete);
             dataDownloaderList.Add(dataDownloader);  // Uncomment to use! Note that more data downloaders can be added.
 
@@ -882,22 +875,75 @@ namespace AgentApplication
             agent = new Agent();
             agent.Name = "Agent1";
 
+            #region // DataItem - Geolocation of Chalmers Unversity of Technology
+            DataItem Chalmers = new DataItem();
+            Chalmers.ID = "L0000001";
+            Chalmers.ContentList.Add(new TagValueUnit("myLocation", "Chalmers"));
+            Chalmers.ContentList.Add(new TagValueUnit("latitude", "57.6896523"));
+            Chalmers.ContentList.Add(new TagValueUnit("longitude", "11.9766811"));
+            agent.LongTermMemory.ItemList.Add(Chalmers);
+            #endregion
+
+            #region Face detection 
+            InputItem inputItem0 = new InputItem();
+            inputItem0.RequiredInputSource = InputSource.Vision;
+            inputItem0.IsEntryPoint = true;
+            inputItem0.ID = "A015.00001";
+
+            InputAction inputAction0 = new InputAction();
+            Pattern pattern0 = new Pattern();
+            pattern0.PatternSpecification = "FaceDetected";
+            inputAction0.PatternList = new List<Pattern>() { pattern0 };
+            inputAction0.TargetItemID = "A015.00002";
+            inputItem0.InputActionList.Add(inputAction0);
+            agent.LongTermMemory.ItemList.Add(inputItem0);
+
+            List<Pattern> outputPatternList1P = new List<Pattern>() { new Pattern("Good morning.") };
+            OutputItem outputItem0 = new OutputItem("A015.00002", outputPatternList1P, null, null);
+            agent.LongTermMemory.ItemList.Add(outputItem0);
+
+
+            #endregion
 
             // MINOR DIALOGUE
-            #region
-            // Politness - 1
-            InputAction inputAction1P = new InputAction(new List<Pattern>() { new Pattern("Good morning") }, "A001.00002");
+            #region Politness - 1
+            InputAction inputAction1P = new InputAction(new List<Pattern>() { new Pattern("[Good morning, Hello, Hi]") }, "A001.10001");
             InputItem inputItem1P = new InputItem("A001.00001", new List<InputAction> { inputAction1P }, null);
             inputItem1P.IsEntryPoint = true;    // Entrypoint
             agent.LongTermMemory.AddItem(inputItem1P);
 
-            List<Pattern> outputPatternList1P = new List<Pattern>() { new Pattern("Good morning.") };
+            OutputItem outputItem100 =
+            new OutputItem("A001.10001", new List<Pattern>() { new Pattern("waveL") }, "A001.10003", null);
+            outputItem100.OutputDestination = OutputDestination.Animation; // Will be sent to 3D visualizer (if any)
+            agent.LongTermMemory.ItemList.Add(outputItem100);
+
+            OutputItem outputItem101 =
+            new OutputItem("A001.10003", new List<Pattern>() { new Pattern("waveR") }, "A001.10004", null);
+            outputItem101.OutputDestination = OutputDestination.Animation; // Will be sent to 3D visualizer (if any)
+            agent.LongTermMemory.ItemList.Add(outputItem101);
+
+            OutputItem outputItem102 =
+            new OutputItem("A001.10004", new List<Pattern>() { new Pattern("downL") }, "A001.10005", null);
+            outputItem102.OutputDestination = OutputDestination.Animation; // Will be sent to 3D visualizer (if any)
+            agent.LongTermMemory.ItemList.Add(outputItem102);
+
+            OutputItem outputItem103 =
+            new OutputItem("A001.10005", new List<Pattern>() { new Pattern("downR") }, "A001.10002", null);
+            outputItem103.OutputDestination = OutputDestination.Animation; // Will be sent to 3D visualizer (if any)
+            agent.LongTermMemory.ItemList.Add(outputItem103);
+
+            OutputItem outputItem26 =
+            new OutputItem("A001.10002", new List<Pattern>() { new Pattern("Speak") }, "A001.00002", null);
+            outputItem26.OutputDestination = OutputDestination.Animation; // Will be sent to 3D visualizer (if any)
+            agent.LongTermMemory.ItemList.Add(outputItem26);
+
             OutputItem outputItem1P = new OutputItem("A001.00002", outputPatternList1P, "A001.00003", null);
             agent.LongTermMemory.AddItem(outputItem1P);
 
             List<Pattern> outputPatternList4P = new List<Pattern>() { new Pattern("How are you?") };
             OutputItem outputItem4P = new OutputItem("A001.00003", outputPatternList4P, "A001.00004", null);
             agent.LongTermMemory.AddItem(outputItem4P);
+            
 
             InputAction inputAction21P = new InputAction(new List<Pattern>() { new Pattern("[I'm,{}] [fine, very good, good, feeling very good] [thanks, thank you,{}]") }, "A001.00005");
             InputAction inputAction22P = new InputAction(new List<Pattern>() { new Pattern("[I'm,{}] not [so good, feeling well, good]") }, "A001.00006");
@@ -906,24 +952,28 @@ namespace AgentApplication
             agent.LongTermMemory.AddItem(inputItem2P);
 
             List<Pattern> outputPatternList2P = new List<Pattern>() { new Pattern("That's good to hear!") };
-            OutputItem outputItem2P = new OutputItem("A001.00005", outputPatternList2P, null, null);
+            OutputItem outputItem2P = new OutputItem("A001.00005", outputPatternList2P, "A016.00002", null);
             agent.LongTermMemory.AddItem(outputItem2P);
-            List<Pattern> outputPatternList3P = new List<Pattern>() { new Pattern("I'm sorry to hear that.") };
+            List<Pattern> outputPatternList3P = new List<Pattern>() { new Pattern("I'm sorry to hear that. Hope you get [well,better] soon") };
             OutputItem outputItem3P = new OutputItem("A001.00006", outputPatternList3P, null, null);
             agent.LongTermMemory.AddItem(outputItem3P);
+
+            OutputItem outputItem25 =
+            new OutputItem("A016.00002", new List<Pattern>() { new Pattern("Smile") }, "A016.00003", null);
+            outputItem25.OutputDestination = OutputDestination.Animation; // Will be sent to 3D visualizer (if any)
+            agent.LongTermMemory.ItemList.Add(outputItem25);
             #endregion
 
-            #region
-            // Name region - 1
+            #region Name - 1
             InputAction inputAction1N = new InputAction(new List<Pattern>() { new Pattern("[By the way,{}] what is your name?") }, "A001.00008");
             InputItem inputItem1N = new InputItem("A001.00007", new List<InputAction> { inputAction1N }, null);
             inputItem1N.IsEntryPoint = true;
+            inputItem1N.RequiredInputSource = InputSource.Utterance;
             inputItem1N.InputActionList.Add(inputAction1N);
             agent.LongTermMemory.ItemList.Add(inputItem1N);
 
             Pattern outputPattern11N = new Pattern("My name is Bob, what is [yours, your name]?");
             OutputItem outputItem11N = new OutputItem("A001.00008", new List<Pattern> { outputPattern11N }, "A001.00009", null);
-            outputItem11N.SuppressOutputRepetition = false;   // NO NEED TO REPITITION (?)
             agent.LongTermMemory.ItemList.Add(outputItem11N);
 
 
@@ -934,7 +984,7 @@ namespace AgentApplication
             agent.LongTermMemory.ItemList.Add(inputItem2N);
 
 
-            Pattern outputPattern12N = new Pattern("Nice to meet you <name1>.");
+            Pattern outputPattern12N = new Pattern("[What a beautiful name, {}]. Nice to meet you <name1>.");
             OutputItem outputItem12N = new OutputItem("A001.000010", new List<Pattern> { outputPattern12N }, "A001.00011", null);
             outputItem12N.SuppressOutputRepetition = false;  
             agent.LongTermMemory.ItemList.Add(outputItem12N);
@@ -946,31 +996,24 @@ namespace AgentApplication
             inputItem13N.InputActionList.Add(inputAction13N);
             agent.LongTermMemory.ItemList.Add(inputItem13N);
 
-            //Pattern outputPattern13N = new Pattern("I am 10 years old, [what about you, and you, how about you, how old are you, {}] ?"); //Depends on animation
-            Pattern outputPattern13N = new Pattern("I am 10 years old"); //Depends on animation
+            Pattern outputPattern13N = new Pattern("I am 7 years old"); //Depends on animation
             OutputItem outputItem13N = new OutputItem("A001.00013", new List<Pattern> { outputPattern13N }, "A001.00014", null);
             outputItem13N.SuppressOutputRepetition = false;   // NO NEED TO REPITITION
             agent.LongTermMemory.ItemList.Add(outputItem13N);
 
             #endregion
 
-            #region
+            #region - Time and date
             // Time - 2
             InputAction inputAction2T = new InputAction(new List<Pattern>() { new Pattern("What time is it?") }, "A001.00016");
             InputItem inputItem2T = new InputItem("A001.00015", new List<InputAction> { inputAction2T }, null);
             inputItem2T.IsEntryPoint = true;    // Entrypoint
             agent.LongTermMemory.AddItem(inputItem2T);
 
-            // If defining like this, the program will run and store this when staring the program. So I need an action to repeatly "calculate/find" the current time.
-            //string hourOfToday = DateTime.Now.Hour.ToString();
-            //string minOfToday = DateTime.Now.Minute.ToString();
-            //Pattern outputPattern2T = new Pattern(hourOfToday + ":" + minOfToday);
 
             CognitiveItem cognitiveItem2T = new CognitiveItem();
             cognitiveItem2T.ID = "A001.00016";
             AddedClasses.GetCurrentTimeAction cognitiveAction2T = new AddedClasses.GetCurrentTimeAction();
-            //cognitiveAction1.InputList = new List<CognitiveActionParameter>()
-            //{ new CognitiveActionParameter(CognitiveActionParameterType.WMTag, "imageName") };
             cognitiveAction2T.OutputList = new List<CognitiveActionParameter>()
             { new CognitiveActionParameter(CognitiveActionParameterType.WMTag,"currentTime")};
             cognitiveAction2T.SuccessTarget = new CognitiveActionTarget(-1, "A001.00017");
@@ -1001,7 +1044,7 @@ namespace AgentApplication
             agent.LongTermMemory.AddItem(outputItem2D);
 
             // Weekday - 3
-            InputAction inputAction21D = new InputAction(new List<Pattern>() { new Pattern("What <weekday> is it today?") }, "A001.00021");
+            InputAction inputAction21D = new InputAction(new List<Pattern>() { new Pattern("What weekday is it today?") }, "A001.00021");
             InputItem inputItem21D = new InputItem("A001.00020", new List<InputAction> { inputAction21D }, null);
             inputItem21D.IsEntryPoint = true;    // Entrypoint
             agent.LongTermMemory.AddItem(inputItem21D);
@@ -1009,8 +1052,7 @@ namespace AgentApplication
             CognitiveItem cognitiveItem21D = new CognitiveItem();
             cognitiveItem21D.ID = "A001.00021";
             GetCurrentWeekdayAction cognitiveAction21D = new GetCurrentWeekdayAction();
-            cognitiveAction21D.InputList = new List<CognitiveActionParameter>()
-            { new CognitiveActionParameter(CognitiveActionParameterType.WMTag,"weekday")};
+            cognitiveAction21D.InputList = new List<CognitiveActionParameter>();
             cognitiveAction21D.OutputList = new List<CognitiveActionParameter>()
             { new CognitiveActionParameter(CognitiveActionParameterType.WMTag,"weekdayOfToday")};
             cognitiveAction21D.SuccessTarget = new CognitiveActionTarget(-1, "A001.00022");
@@ -1021,27 +1063,45 @@ namespace AgentApplication
             OutputItem outputItem21D = new OutputItem("A001.00022", new List<Pattern> { outputPattern21D}, null, null);
             agent.LongTermMemory.AddItem(outputItem21D);
 
-
-
             #endregion
 
+            #region Repetition
+            InputAction inputAction1R = new InputAction(new List<Pattern>()
+              { new Pattern("[Can, Could] you repeat [that, what you said] [please,{}]"),
+                new Pattern("[Please,{}] repeat") }, "A001.00031");
+            InputItem inputItem1R = new InputItem("A001.00030", new List<InputAction> { inputAction1R }, null);
+            inputItem1R.IsEntryPoint = true;
+            agent.LongTermMemory.ItemList.Add(inputItem1R);
 
-            // Major dialougue - city guide
-            #region
+            CognitiveItem cognitiveItem1R = new CognitiveItem("A001.00031");
+            MyFindLastOutputAction cognitiveAction1R = new MyFindLastOutputAction();
+            cognitiveAction1R.SetOutputList(CognitiveActionParameterType.WMTag, new List<string>() { "lastOutput" });
+            cognitiveAction1R.SuccessTarget = new CognitiveActionTarget(-1, "A001.00032");
+            cognitiveItem1R.CognitiveActionList = new List<CognitiveAction>() { cognitiveAction1R };
+            agent.LongTermMemory.ItemList.Add(cognitiveItem1R);
+
+            Pattern outputPattern1R = new Pattern("[Absolutely, Of cause, Sure, I am sorry I spoke too fast.] I said: <lastOutput>");
+            OutputItem outputItem1R = new OutputItem("A001.00032", new List<Pattern>() { outputPattern1R }, null, null);
+            outputItem1R.SuppressOutputRepetition = true;
+            agent.LongTermMemory.ItemList.Add(outputItem1R);
+            #endregion
+
+            #region Major dialougue - city guide
             // First part - recommend a resturant
             InputAction inputAction1 = new InputAction(new List<Pattern>() { new Pattern("Can you recommend me a restaurant?") }, "A002.00002");
             InputItem inputItem1 = new InputItem("A002.00001", new List<InputAction> { inputAction1 }, null);
             inputItem1.IsEntryPoint = true;    // Entrypoint
             agent.LongTermMemory.AddItem(inputItem1);
 
-            Pattern outputPattern1 = new Pattern("Certainly. What food are you interested in?");
+            Pattern outputPattern1 = new Pattern("[Absolutley, Sure, of cause, Certainly]. What food are you interested in?");
             OutputItem outputItem1 = new OutputItem("A002.00002", new List<Pattern> { outputPattern1 }, "A002.00003", null);
             agent.LongTermMemory.AddItem(outputItem1);
 
             InputAction inputAction2 = new InputAction(new List<Pattern>() { new Pattern("[I am interested in, { }] <cuisine>") }, "A002.00004");
-            InputItem inputItem2 = new InputItem("A002.00003", new List<InputAction> { inputAction2 }, "CuisinQuery");
+            InputItem inputItem2 = new InputItem("A002.00003", new List<InputAction> { inputAction2 }, null);
             agent.LongTermMemory.ItemList.Add(inputItem2);
 
+            // Find all restaurant with specific cuisin
             CognitiveItem cognitiveItem2 = new CognitiveItem();
             cognitiveItem2.ID = "A002.00004";
             GetListFromLTM cognitiveAction21 = new GetListFromLTM();
@@ -1051,45 +1111,291 @@ namespace AgentApplication
                        new CognitiveActionParameter(CognitiveActionParameterType.LTMCategory, "cuisine")
                 };
             cognitiveAction21.OutputList =
-                new List<CognitiveActionParameter>() { new CognitiveActionParameter(CognitiveActionParameterType.LTMTag, "ListOfItem") };
+                new List<CognitiveActionParameter>() { new CognitiveActionParameter(CognitiveActionParameterType.WMTag, "ListOfItem") };
             cognitiveAction21.SuccessTarget = new CognitiveActionTarget(-1, "A002.00005");
-            cognitiveAction21.FailureTarget = new CognitiveActionTarget(1, null);
+            cognitiveAction21.FailureTarget = new CognitiveActionTarget(-1, "A000.00001");
             cognitiveItem2.CognitiveActionList.Add(cognitiveAction21);
 
-
-            // If cuisine not found
-            GetListFromLTM cognitiveAction22 = new GetListFromLTM();
-            cognitiveAction21.InputList = new List<CognitiveActionParameter>()
-                {
-                       new CognitiveActionParameter(CognitiveActionParameterType.WMTag, "cuisine"),
-                       new CognitiveActionParameter(CognitiveActionParameterType.LTMCategory, "cuisine")
-                };
-            cognitiveAction22.OutputList =
-                new List<CognitiveActionParameter>() { new CognitiveActionParameter(CognitiveActionParameterType.WMTag, "ListOfItem") };
-            cognitiveAction22.SuccessTarget = new CognitiveActionTarget(2, null);
-            cognitiveAction22.FailureTarget = new CognitiveActionTarget(1, "A000.0001");
-            // Add to Cognitive Item 2
-            cognitiveItem2.CognitiveActionList.Add(cognitiveAction22);
             agent.LongTermMemory.ItemList.Add(cognitiveItem2);
 
-
-            Pattern displayPattern2 = new Pattern("ListOfItem");
-            displayPattern2.UseVerbatim = true;  // Required to aviod processing the pattern
-            OutputItem outputItem2 = new OutputItem("A002.00005", new List<Pattern>() { displayPattern2 }, null, null);
-            outputItem2.OutputDestination = OutputDestination.Display;  // To display
+            Pattern displayPattern21 = new Pattern(" Here is a List of the <cuisine> restaurants.");
+            OutputItem outputItem21 = new OutputItem("A002.00005", new List<Pattern>() { displayPattern21 }, "A002.00006", null);
+            agent.LongTermMemory.ItemList.Add(outputItem21);
+            
+            // Display the list of restauraunt with specific cuisine
+            Pattern displayPattern2 = new Pattern("<ListOfItem>");
+            OutputItem outputItem2 = new OutputItem("A002.00006", new List<Pattern>() { displayPattern2 }, "A002.00007", null);
+            outputItem2.OutputDestination = OutputDestination.Display;  
             agent.LongTermMemory.ItemList.Add(outputItem2);
 
-            // PRINT LIST OF LTM
-            /*Pattern outputPattern2 = new Pattern("Here is a list of <cuisine> resturants. <ListOfItem>");
-            OutputItem outputItem2 = new OutputItem("A002.00005", new List<Pattern> { outputPattern2}, null, null);
-            outputItem2.OutputDestination = OutputDestination.Display;  // To display
-            agent.LongTermMemory.ItemList.Add(outputItem2);*/
+            // When not able to find the mentioned cuisine
+            Pattern outputPattern22 = new Pattern("[I am sorry, I am not able to understand] [Here is a list of cuisine {}], you can choose between.");
+            OutputItem outputItem22 = new OutputItem("A000.00001", new List<Pattern> { outputPattern22 }, "A000.00002", null);
+            agent.LongTermMemory.ItemList.Add(outputItem22);
 
-            // GET LIST OF CUISINES FROM LTM DOES NOT WORK...
-            Pattern outputPattern3 = new Pattern("Can you rephrase that please? We only got ****");
-            OutputItem outputItem3 = new OutputItem("A000.00001", new List<Pattern> { outputPattern3 }, null, null);
-            outputItem3.SuppressOutputRepetition = false;
-            agent.LongTermMemory.ItemList.Add(outputItem3);
+            // Display all cuisine
+            OutputItem outputItem23 = new OutputItem("A000.00002", new List<Pattern>() { displayPattern2 }, "A002.00003", null);
+            outputItem23.OutputDestination = OutputDestination.Display;  // To display
+            agent.LongTermMemory.ItemList.Add(outputItem23);
+
+            // Remove list from display
+            Pattern displayPattern31 = new Pattern(DisplaySource.None + "|" + "Paris.jpg");
+            displayPattern31.UseVerbatim = true;  // Required to aviod processing the pattern
+            OutputItem outputItem31 = new OutputItem("A002.00007", new List<Pattern>() { displayPattern31 }, "A002.00008", null);
+            outputItem31.OutputDestination = OutputDestination.Display;  // To display
+            agent.LongTermMemory.ItemList.Add(outputItem31);
+
+            InputAction inputAction3 = new InputAction(new List<Pattern>() { new Pattern("[Which one is closest, which one is the closest one, which is closest]") }, "A002.00009");
+            InputAction inputAcion31 = new InputAction(new List<Pattern>() { new Pattern("[I want to make a reservation at, I like, I want to go to, {}] <restaurantChoice>") }, "A004.10008");
+            InputItem inputItem3 = new InputItem("A002.00008", new List<InputAction> { inputAction3, inputAcion31 }, null);
+            agent.LongTermMemory.AddItem(inputItem3);
+
+            // Calculate the closest one
+            CognitiveItem cognitiveItem3 = new CognitiveItem();
+            cognitiveItem3.ID = "A002.00009";
+            ShortestDistanceToChalmersAction cognitiveAction3 = new ShortestDistanceToChalmersAction();
+            cognitiveAction3.InputList = new List<CognitiveActionParameter>()
+                {
+                       new CognitiveActionParameter(CognitiveActionParameterType.WMTag, "ListOfItem"),
+                       new CognitiveActionParameter(CognitiveActionParameterType.LTMTag, "geolocation"),
+                       new CognitiveActionParameter(CognitiveActionParameterType.LTMTag,"myLocation")
+                };
+            cognitiveAction3.OutputList =
+                new List<CognitiveActionParameter>() { new CognitiveActionParameter(CognitiveActionParameterType.WMTag, "ClosestRestaurant") };
+            cognitiveAction3.SuccessTarget = new CognitiveActionTarget(-1, "A002.00010");
+            cognitiveItem3.CognitiveActionList.Add(cognitiveAction3);
+            agent.LongTermMemory.ItemList.Add(cognitiveItem3);
+
+            Pattern outputPattern3 = new Pattern("<ClosestRestaurant> is the closest one.");
+            OutputItem outputItem3 = new OutputItem("A002.00010", new List<Pattern> { outputPattern3 }, null, null);
+            agent.LongTermMemory.AddItem(outputItem3);
+            #endregion
+
+            #region - Second part of Major - Museum
+
+            InputAction inputAction4 = new InputAction(new List<Pattern>() { new Pattern("[Can you recommend me a museum, do you have any good recommendation of museum]?") }, "A003.00002");
+            InputItem inputItem4 = new InputItem("A003.00001", new List<InputAction> { inputAction4 }, null);
+            inputItem4.IsEntryPoint = true;    // Entrypoint
+            agent.LongTermMemory.AddItem(inputItem4);
+
+            Pattern outputPattern4 = new Pattern("[Certainly, Absolutely, Of cause].What [type, kind] of museum are you interested in?");
+            OutputItem outputItem4 = new OutputItem("A003.00002", new List<Pattern> { outputPattern4 }, "A003.00003", null);
+            agent.LongTermMemory.AddItem(outputItem4);
+
+            InputAction inputAction5 = new InputAction(new List<Pattern>() { new Pattern("[I am interested in, { }] <museumCategory+>") }, "A003.00004");
+            InputItem inputItem5 = new InputItem("A003.00003", new List<InputAction> { inputAction5 }, null);
+            agent.LongTermMemory.ItemList.Add(inputItem5);
+
+            // Action to find all museum within specific category
+            CognitiveItem cognitiveItem5 = new CognitiveItem();
+            cognitiveItem5.ID = "A003.00004";
+            GetListFromLTM cognitiveAction51 = new GetListFromLTM();
+            cognitiveAction51.InputList = new List<CognitiveActionParameter>()
+                {
+                       new CognitiveActionParameter(CognitiveActionParameterType.WMTag, "museumCategory"),
+                       new CognitiveActionParameter(CognitiveActionParameterType.LTMCategory, "museumCategory")
+                };
+            cognitiveAction51.OutputList =
+                new List<CognitiveActionParameter>() { new CognitiveActionParameter(CognitiveActionParameterType.WMTag, "ListOfItem") };
+            cognitiveAction51.SuccessTarget = new CognitiveActionTarget(-1, "A003.00005");
+            cognitiveAction51.FailureTarget = new CognitiveActionTarget(-1, "A010.00001");
+            cognitiveItem5.CognitiveActionList.Add(cognitiveAction51);
+            agent.LongTermMemory.ItemList.Add(cognitiveItem5);
+
+            Pattern displayPattern61 = new Pattern(" Here is a List of the <museumCategory> museum.");
+            OutputItem outputItem61 = new OutputItem("A003.00005", new List<Pattern>() { displayPattern61 }, "A003.00006", null);
+            agent.LongTermMemory.ItemList.Add(outputItem61);
+
+            // Display list of museum in specific topic
+            Pattern displayPattern6 = new Pattern("<ListOfItem>");
+            OutputItem outputItem6 = new OutputItem("A003.00006", new List<Pattern>() { displayPattern6 }, "A003.00007", null);
+            outputItem6.OutputDestination = OutputDestination.Display;  
+            agent.LongTermMemory.ItemList.Add(outputItem6);
+
+            Pattern outputPattern62 = new Pattern("[I am sorry, I am afraid I cant find any museum within this category. I am not able to find those museum.]");
+            OutputItem outputItem62 = new OutputItem("A010.00001", new List<Pattern> { outputPattern62 }, "A010.00002", null);
+            agent.LongTermMemory.ItemList.Add(outputItem62);
+
+            OutputItem outputItem64 = new OutputItem("A010.00002", new List<Pattern> {new Pattern(" [Here is a list of the category, {}], you can choose between.") }, "A010.00003", null);
+            agent.LongTermMemory.ItemList.Add(outputItem64);
+            
+            OutputItem outputItem63 = new OutputItem("A010.00003", new List<Pattern>() { displayPattern6 }, "A003.00003", null);
+            outputItem63.OutputDestination = OutputDestination.Display;  
+            agent.LongTermMemory.ItemList.Add(outputItem63);
+
+            // Removing the list
+            Pattern displayPattern71 = new Pattern(DisplaySource.None + "|" + "Paris.jpg");
+            displayPattern71.UseVerbatim = true;  /
+            OutputItem outputItem71 = new OutputItem("A003.00007", new List<Pattern>() { displayPattern71 }, "A003.00008", null);
+            outputItem71.OutputDestination = OutputDestination.Display;  
+            agent.LongTermMemory.ItemList.Add(outputItem71);
+
+            InputAction inputAction8 = new InputAction(new List<Pattern>() { new Pattern("[Which one is largest, which is the largest one]") }, "A003.00009");
+            InputItem inputItem8 = new InputItem("A003.00008", new List<InputAction> { inputAction8 }, null);
+            agent.LongTermMemory.AddItem(inputItem8);
+
+            // Action for calculate the largest one by ranknig
+            CognitiveItem cognitiveItem8 = new CognitiveItem();
+            cognitiveItem8.ID = "A003.00009";
+            FindLargestByTagAction cognitiveAction8 = new FindLargestByTagAction();
+            cognitiveAction8.InputList = new List<CognitiveActionParameter>()
+                {
+                       new CognitiveActionParameter(CognitiveActionParameterType.WMTag, "ListOfItem"),
+                       new CognitiveActionParameter(CognitiveActionParameterType.LTMTag, "ranking"),
+                       new CognitiveActionParameter(CognitiveActionParameterType.LTMTag,"myLocation")
+                };
+            cognitiveAction8.OutputList =
+                new List<CognitiveActionParameter>() { new CognitiveActionParameter(CognitiveActionParameterType.WMTag, "ItemWithLargestCategory") };
+            cognitiveAction8.SuccessTarget = new CognitiveActionTarget(-1, "A003.00010");
+            cognitiveAction8.FailureTarget = new CognitiveActionTarget(-1, "A010.0004");
+            cognitiveItem8.CognitiveActionList.Add(cognitiveAction8);
+            agent.LongTermMemory.ItemList.Add(cognitiveItem8);
+
+            Pattern outputPattern8 = new Pattern("<ItemWithLargestCategory> is the Largest one.");
+            OutputItem outputItem8 = new OutputItem("A003.00010", new List<Pattern> { outputPattern8 }, null, null);
+            agent.LongTermMemory.AddItem(outputItem8);
+            #endregion
+
+            #region - Major dialouge, third part - book a table
+            Pattern inputPattern9 = new Pattern("[Could you do me a favor, can you help me, by the way could you help me] to [book a table, make a reservation]");
+            InputAction inputAction9 = new InputAction(new List<Pattern>() { inputPattern9}, "A004.00002");
+            InputItem inputItem9 = new InputItem("A004.00001", new List<InputAction> { inputAction9 }, null);
+            inputItem9.IsEntryPoint = true;    // Entrypoint
+            agent.LongTermMemory.AddItem(inputItem9);
+
+            Pattern outputPattern10 = new Pattern("[Absolutely, Certainly, Sure, of cause, my pleasure to help you, {}]. is it for today or tomorrow");
+            OutputItem outputItem10 = new OutputItem("A004.00002", new List<Pattern> { outputPattern10 }, "A004.00003", null);
+            agent.LongTermMemory.AddItem(outputItem10);
+            InputAction inputAction10 = new InputAction(new List<Pattern>() { new Pattern("<dateReservation>") }, "A004.00004");
+            InputItem inputItem10 = new InputItem("A004.00003", new List<InputAction> { inputAction10 }, null);
+            agent.LongTermMemory.AddItem(inputItem10);
+
+            Pattern outputPattern11 = new Pattern("For how many [people, person]");
+            OutputItem outputItem11 = new OutputItem("A004.00004", new List<Pattern> { outputPattern11 }, "A004.00005", null);
+            agent.LongTermMemory.AddItem(outputItem11);
+            InputAction inputAction11 = new InputAction(new List<Pattern>() { new Pattern("[I want to make a reservation for, for {}] <peopleReservation> [people,person] ") }, "A004.00006");
+            InputItem inputItem11 = new InputItem("A004.00005", new List<InputAction> { inputAction11 }, null);
+            agent.LongTermMemory.AddItem(inputItem11);
+
+
+            Pattern outputPattern12 = new Pattern("which restaurant[would you like to, do you want to] make the reservation?");
+            OutputItem outputItem12 = new OutputItem("A004.00006", new List<Pattern> { outputPattern12 }, "A004.00007", null);
+            agent.LongTermMemory.AddItem(outputItem12);
+
+            // Alt 1. When knowing the restaurant (saved as restaurantChoice
+            // Alt 2. Need recommendation of restaurants
+            InputAction inputAction121 = new InputAction(new List<Pattern>() { new Pattern("[I want to make a reservation, {}] at <restaurantChoice>") }, "A004.00008");
+            Pattern pattern122 = new Pattern("[Do you have any recommendation, what do you recommend, I don't know, I don't know yet, I am not sure]");
+            InputAction inputAction122 = new InputAction(new List<Pattern>() { pattern122 }, "A004.10004");
+            InputItem inputItem12 = new InputItem("A004.00007", new List<InputAction> { inputAction121, inputAction122 }, null);
+            agent.LongTermMemory.ItemList.Add(inputItem12);
+
+            Pattern outputPattern131 = new Pattern("[Let me help you, Let me give you some recommendation, Let's see, I will help you to find one]. What food are you interested in?");
+            OutputItem outputItem131 = new OutputItem("A004.10004", new List<Pattern> { outputPattern131 }, "A002.00003", null);
+            agent.LongTermMemory.AddItem(outputItem131);
+
+            // Continue for alt.1
+            Pattern outputPattern132 = new Pattern("[Let me, i will] help you to make a reservation at <restaurantChoice>.");
+            OutputItem outputItem132 = new OutputItem("A004.00008", new List<Pattern> { outputPattern132 }, "A004.00009", null);
+            agent.LongTermMemory.AddItem(outputItem132);
+
+
+            InputAction inputAction13 = new InputAction(new List<Pattern>() { new Pattern("[Thank you, thanks]") }, "A004.10009");
+            InputItem inputItem13 = new InputItem("A004.00009", new List<InputAction> { inputAction13 }, null);
+            agent.LongTermMemory.AddItem(inputItem13);
+
+            // Action to find the phone number
+            CognitiveItem cognitiveItem13 = new CognitiveItem();
+            cognitiveItem13.ID = "A004.10009";
+            GetPhoneNumber cognitiveAction13 = new GetPhoneNumber();
+            cognitiveAction13.InputList = new List<CognitiveActionParameter>()
+                {
+                       new CognitiveActionParameter(CognitiveActionParameterType.WMTag, "restaurantChoice"),
+                       new CognitiveActionParameter(CognitiveActionParameterType.WMTag, "item"),
+                       new CognitiveActionParameter(CognitiveActionParameterType.WMTag, "phoneNumber")
+                };
+            cognitiveAction13.OutputList =
+            new List<CognitiveActionParameter>() { new CognitiveActionParameter(CognitiveActionParameterType.WMTag, "phoneNumberOfItem") };
+            cognitiveAction13.SuccessTarget = new CognitiveActionTarget(-1, "A004.00012");
+            cognitiveAction13.FailureTarget = new CognitiveActionTarget(-1, "A004.00011");
+            cognitiveItem13.CognitiveActionList.Add(cognitiveAction13);
+            agent.LongTermMemory.ItemList.Add(cognitiveItem13);
+
+            Pattern outputPattern14 = new Pattern("[I am sorry, {}] I am not able to find this restaurant.");
+            OutputItem outputItem14 = new OutputItem("A004.00011", new List<Pattern> { outputPattern14 }, "A004.10004", null);
+            agent.LongTermMemory.AddItem(outputItem14);
+
+            Pattern outputPattern15 = new Pattern("Ok, please wait a minute. I will call the restaurant for a reservation.");
+            OutputItem outputItem15 = new OutputItem("A004.00012", new List<Pattern> { outputPattern15 }, "A004.00013", null);
+            agent.LongTermMemory.AddItem(outputItem15);
+
+            Pattern outputPattern16 = new Pattern("<phoneNumberOfItem>");
+            OutputItem outputItem16 = new OutputItem("A004.00013", new List<Pattern> { outputPattern16 }, "A004.00014", null);
+            agent.LongTermMemory.AddItem(outputItem16);
+
+            OutputItem outputItem109 =
+            new OutputItem("A004.00014", new List<Pattern>() { new Pattern("phoneup") }, "A004.00015", null);
+            outputItem109.OutputDestination = OutputDestination.Animation; 
+            agent.LongTermMemory.ItemList.Add(outputItem109);
+
+            Pattern outputPattern17 = new Pattern("[Hello, hi] I would like to make a reservation <dateReservation> for <peopleReservation> people");
+            OutputItem outputItem17 = new OutputItem("A004.00015", new List<Pattern> { outputPattern17 }, "A004.00016", null);
+            agent.LongTermMemory.AddItem(outputItem17);
+            
+            OutputItem outputItem110 =
+           new OutputItem("A004.00016", new List<Pattern>() { new Pattern("phonedown") }, "A004.00017", null);
+            outputItem110.OutputDestination = OutputDestination.Animation; 
+            agent.LongTermMemory.ItemList.Add(outputItem110);
+
+            // Continue for alt 2. When returning from recommendation of restaurant
+            Pattern outputPattern133 = new Pattern("[Let me, i will] help you to make a reservation at <restaurantChoice>.");
+            OutputItem outputItem133= new OutputItem("A004.10008", new List<Pattern> { outputPattern133 }, "A004.10009", null); 
+            agent.LongTermMemory.AddItem(outputItem133);
+
+            // Action for finding the phone number
+            CognitiveItem cognitiveItem133 = new CognitiveItem();
+            cognitiveItem133.ID = "A004.10009";
+            GetPhoneNumber cognitiveAction133 = new GetPhoneNumber();
+            cognitiveAction133.InputList = new List<CognitiveActionParameter>()
+                {
+                       new CognitiveActionParameter(CognitiveActionParameterType.WMTag, "restaurantChoice"),
+                       new CognitiveActionParameter(CognitiveActionParameterType.WMTag, "item"),
+                       new CognitiveActionParameter(CognitiveActionParameterType.WMTag, "phoneNumber")
+                };
+            cognitiveAction133.OutputList =
+            new List<CognitiveActionParameter>() { new CognitiveActionParameter(CognitiveActionParameterType.WMTag, "phoneNumberOfItem") };
+            cognitiveAction133.SuccessTarget = new CognitiveActionTarget(-1, "A004.10012");
+            cognitiveAction133.FailureTarget = new CognitiveActionTarget(-1, "A004.10011");
+            cognitiveItem133.CognitiveActionList.Add(cognitiveAction133);
+            agent.LongTermMemory.ItemList.Add(cognitiveItem133);
+
+            Pattern outputPattern143 = new Pattern("[I am sorry, {}] I am not able to find this restaurant.");
+            OutputItem outputItem143 = new OutputItem("A004.10011", new List<Pattern> { outputPattern143 }, "A004.10004", null);
+            agent.LongTermMemory.AddItem(outputItem143);
+
+            Pattern outputPattern153 = new Pattern("Ok, please wait a minute. I will call the restaurant for a reservation.");
+            OutputItem outputItem153 = new OutputItem("A004.10012", new List<Pattern> { outputPattern153 }, "A004.10013", null);
+            agent.LongTermMemory.AddItem(outputItem153);
+
+            Pattern outputPattern163 = new Pattern("<phoneNumberOfItem>");
+            OutputItem outputItem163 = new OutputItem("A004.10013", new List<Pattern> { outputPattern163 }, "A004.10014", null);
+            agent.LongTermMemory.AddItem(outputItem163);
+
+            OutputItem outputItem171 =
+            new OutputItem("A004.10014", new List<Pattern>() { new Pattern("phoneup") }, "A004.10015", null);
+            outputItem171.OutputDestination = OutputDestination.Animation; // Will be sent to 3D visualizer (if any)
+            agent.LongTermMemory.ItemList.Add(outputItem171);
+
+            Pattern outputPattern173 = new Pattern("[Hello, hi] I would like to make a reservation <dateReservation> for <peopleReservation> people");
+            OutputItem outputItem173 = new OutputItem("A004.10015", new List<Pattern> { outputPattern173 }, "A004.10016", null);
+            agent.LongTermMemory.AddItem(outputItem173);
+
+            OutputItem outputItem172 =
+           new OutputItem("A004.10016", new List<Pattern>() { new Pattern("phonedown") }, "A004.10017", null);
+            outputItem172.OutputDestination = OutputDestination.Animation; // Will be sent to 3D visualizer (if any)
+            agent.LongTermMemory.ItemList.Add(outputItem172);
+
+            #endregion
 
             #endregion
 
@@ -1100,7 +1406,6 @@ namespace AgentApplication
             saveAgentToolStripMenuItem.Enabled = true;
         }
 
-        #endregion
 
         private void runConsistencyCheckButton_Click(object sender, EventArgs e)
         {

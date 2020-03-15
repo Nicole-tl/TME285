@@ -40,28 +40,54 @@ namespace AgentApplication.AddedClasses
             CognitiveActionTarget cognitiveActionTarget = new CognitiveActionTarget();
             string wmTag = inputList[0].Identifier;
             DataItem inputDynamicInformationItem = ownerAgent.WorkingMemory.FindLastByTag(wmTag);
+
             if (inputDynamicInformationItem != null)
             {
                 string nameValue = inputDynamicInformationItem.GetStringValueByTag(wmTag);
                 TagValueUnit categoryTagValueUnit = new TagValueUnit(wmTag, nameValue);
-
-                // List of DataItem with certain category
                 List<DataItem> ListOfItem = ownerAgent.LongTermMemory.FindAll(new List<TagValueUnit>() { categoryTagValueUnit });
-                if (ListOfItem != null)
-                {  
-                    
-                    string outputTag = outputList[0].Identifier; // outputTagList[0];
-                    ownerAgent.LastHistoryDataItem.ContentList.Add(new TagValueUnit(outputTag, ListOfItem));
-
-                    return successTarget;
-                }
-                else
+                
+                // If finding data item with specific category then find all and save them as a string
+                if (ListOfItem != null && ListOfItem.Count != 0)
                 {
-                    // NEED TO DEFINE SOMETHING??
-                    return failureTarget;
+                    string ListOfItemName = "";
+                    foreach (DataItem item in ListOfItem)
+                    { 
+                        string itemName = item.GetStringValueByTag("item");
+                        ListOfItemName = ListOfItemName + itemName + "\r\n";
+
+                    }
+
+                    string generatedFilePath = "Text" + Constants.DISPLAY_OUTPUT_SEPARATOR + ListOfItemName;
+
+                    string outputTag = outputList[0].Identifier; 
+                    ownerAgent.LastHistoryDataItem.ContentList.Add(new TagValueUnit(outputTag, generatedFilePath));
+                    cognitiveActionTarget = successTarget;
+                    searchSuccessful = true;
+                }
+                else //If the category does not exist in LTM, then display all category in LTM 
+                {
+                    string inputListTag = inputList[0].Identifier;
+                    string inputTag = "";
+                    if (inputListTag == "cuisine")
+                    {   
+                        inputTag = "allCuisines";
+                    }
+                    else
+                    {
+                        inputTag = "allMuseum";
+                    }
+                    DataItem dataCategory = ownerAgent.LongTermMemory.FindLastByTag(inputTag);
+                    string listOfCategory = dataCategory.GetValueByTag(inputTag);
+                    string generatedListOfCategory = "Text" + Constants.DISPLAY_OUTPUT_SEPARATOR + listOfCategory;
+                    string outputTag = outputList[0].Identifier;
+                    ownerAgent.LastHistoryDataItem.ContentList.Add(new TagValueUnit(outputTag, generatedListOfCategory));
                 }
             }
-            if (!searchSuccessful) { cognitiveActionTarget = failureTarget; }
+            if (!searchSuccessful) {
+
+                cognitiveActionTarget = failureTarget; 
+            }
             return cognitiveActionTarget;
         }
     }

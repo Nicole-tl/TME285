@@ -12,10 +12,7 @@ namespace AgentApplication.AddedClasses
     {
         public override List<CognitiveActionParameterType> GetRequiredParameterTypeInputList()
         {
-            List<CognitiveActionParameterType> requiredParameterTypeInputList = new List<CognitiveActionParameterType>()
-            { CognitiveActionParameterType.WMTag
-
-            };
+            List<CognitiveActionParameterType> requiredParameterTypeInputList = new List<CognitiveActionParameterType>();
             return requiredParameterTypeInputList;
 
         }

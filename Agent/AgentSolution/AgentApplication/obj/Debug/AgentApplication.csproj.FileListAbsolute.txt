@@ -287,3 +287,15 @@ C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\obj\Debug
 C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.Properties.Resources.resources
 C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csproj.GenerateResource.cache
 C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\obj\Debug\AgentApplication.csproj.CopyComplete
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\ImageProcessingLibrary.dll
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\DirectShowLib-2005.dll
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\ImageProcessingLibrary.pdb
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\VisionApplication.exe
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\VisionApplication.pdb
+C:\Users\estel\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\VisionApplication.exe.config
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\ImageProcessingLibrary.dll
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\VisionApplication.exe
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\DirectShowLib-2005.dll
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\ImageProcessingLibrary.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\VisionApplication.pdb
+C:\Users\Nicole\Documents\IPASrc_1\Agent\AgentSolution\AgentApplication\bin\Debug\VisionApplication.exe.config
